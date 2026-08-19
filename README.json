@@ -1,44 +1,355 @@
 {
   "items": [
     {
-      "description": "In the dynamic world of software development, Application Programming Interfaces (APIs) are the vital conduits connecting disparate services, applications, and data sources. They are the engines of modern digital experiences. Consequently, the tools used to design, develop, debug, test, and manage these APIs are fundamental to developer productivity and application quality. For many years, Postman established itself as a dominant player in this space, offering a comprehensive suite of features for interacting with APIs. Insomnia also gained significant traction as a popular, user-friendly alternative.\nHowever, the API client landscape is undergoing a significant shift. Recent changes in the business models and feature strategies of established players, particularly around mandatory cloud synchronization, account requirements, pricing tiers, and data privacy concerns, have led many developers and organizations to actively seek Postman alternatives and Insomnia alternatives. Community discussions (like this one on Reddit) highlight a growing desire for tools that prioritize user control, data privacy, offline access, and freedom from vendor lock-in. Concerns about feature bloat in established tools also drive searches for simpler, more focused solutions.\nThe fantastic news is that the developer community, particularly the open-source ecosystem, has risen to the challenge. There is now a vibrant and diverse range of high-quality, free Postman alternatives that offer powerful features, flexible workflows, and greater control over your data and development environment. Whether you need a lightweight alternative, a feature-rich desktop application, a seamless VS Code extension, a powerful CLI tool, or a dedicated API testing framework, there's likely an open-source solution that fits your needs.\nThis document serves as a curated list of Awesome API Clients, focusing specifically on Open Source and Free Postman Alternatives. These tools empower developers with the functionality they need for effective API development and testing without the compromises often associated with proprietary, cloud-centric platforms.",
-      "items": [],
-      "title": "Awesome API Clients as Postman Alternatives"
-    },
-    {
       "description": "Accessible from any modern browser, these clients eliminate installation hassles and often facilitate easier sharing and collaboration. Many leverage browser storage for offline use or offer PWA (Progressive Web App) capabilities.",
-      "items": [],
+      "items": [
+        {
+          "children": [],
+          "description": null,
+          "node_type": "item",
+          "repo_info": {
+            "archived": false,
+            "id": 160253491,
+            "language": "JavaScript",
+            "last_commit": "2026-08-17T19:23:09Z",
+            "owner": "fullstorydev",
+            "repo": "grpcui",
+            "stars": 5917
+          },
+          "title": "gRPC UI"
+        }
+      ],
       "title": "Postman Alternatives - Web-Based API Clients"
     },
     {
       "description": "Installed natively on your OS (Windows, macOS, Linux), desktop clients often provide superior performance, deeper system integration, and guaranteed offline operation.",
-      "items": [],
+      "items": [
+        {
+          "children": [],
+          "description": null,
+          "node_type": "item",
+          "repo_info": {
+            "archived": false,
+            "id": 609413440,
+            "language": "Dart",
+            "last_commit": "2026-08-16T18:48:32Z",
+            "owner": "foss42",
+            "repo": "apidash",
+            "stars": 2880
+          },
+          "title": "API Dash"
+        },
+        {
+          "children": [],
+          "description": null,
+          "node_type": "item",
+          "repo_info": {
+            "archived": true,
+            "id": 161648540,
+            "language": "TypeScript",
+            "last_commit": "2023-01-04T07:51:04Z",
+            "owner": "bloomrpc",
+            "repo": "bloomrpc",
+            "stars": 8984
+          },
+          "title": "BloomRPC"
+        },
+        {
+          "children": [],
+          "description": null,
+          "node_type": "item",
+          "repo_info": {
+            "archived": false,
+            "id": 178002723,
+            "language": "Java",
+            "last_commit": "2026-08-04T12:53:04Z",
+            "owner": "warmuuh",
+            "repo": "milkman",
+            "stars": 1340
+          },
+          "title": "Milkman"
+        }
+      ],
       "title": "Postman Alternatives - Desktop API Clients"
     },
     {
       "description": "These tools bring API interaction directly into your code editor, minimizing context switching and keeping API testing close to development.",
-      "items": [],
+      "items": [
+        {
+          "children": [],
+          "description": null,
+          "node_type": "item",
+          "repo_info": {
+            "archived": true,
+            "id": 3693861,
+            "language": "Emacs Lisp",
+            "last_commit": "2024-03-10T11:02:55Z",
+            "owner": "pashky",
+            "repo": "restclient.el",
+            "stars": 2022
+          },
+          "title": "restclient.el"
+        },
+        {
+          "children": [],
+          "description": null,
+          "node_type": "item",
+          "repo_info": {
+            "archived": false,
+            "id": 226766506,
+            "language": "Emacs Lisp",
+            "last_commit": "2026-08-18T19:22:11Z",
+            "owner": "federicotdn",
+            "repo": "verb",
+            "stars": 766
+          },
+          "title": "verb"
+        },
+        {
+          "children": [],
+          "description": null,
+          "node_type": "item",
+          "repo_info": {
+            "archived": false,
+            "id": 364726060,
+            "language": "Lua",
+            "last_commit": "2025-12-27T19:28:17Z",
+            "owner": "rest-nvim",
+            "repo": "rest.nvim",
+            "stars": 2050
+          },
+          "title": "rest.nvim"
+        },
+        {
+          "children": [],
+          "description": null,
+          "node_type": "item",
+          "repo_info": {
+            "archived": false,
+            "id": 819582362,
+            "language": "Lua",
+            "last_commit": "2026-08-18T18:30:58Z",
+            "owner": "mistweaverco",
+            "repo": "kulala.nvim",
+            "stars": 2146
+          },
+          "title": "kulala.nvim"
+        }
+      ],
       "title": "Postman Alternatives - IDE Integration API Clients"
     },
     {
       "description": "Indispensable for automation, scripting, and terminal enthusiasts, CLI tools offer performance, composability, and easy integration into CI/CD pipelines.",
-      "items": [],
+      "items": [
+        {
+          "children": [],
+          "description": null,
+          "node_type": "item",
+          "repo_info": {
+            "archived": false,
+            "id": 111431261,
+            "language": "Go",
+            "last_commit": "2026-08-17T12:35:49Z",
+            "owner": "fullstorydev",
+            "repo": "grpcurl",
+            "stars": 12780
+          },
+          "title": "grpcurl"
+        },
+        {
+          "children": [],
+          "description": null,
+          "node_type": "item",
+          "repo_info": {
+            "archived": false,
+            "id": 294521053,
+            "language": "Rust",
+            "last_commit": "2026-08-16T21:58:33Z",
+            "owner": "ducaale",
+            "repo": "xh",
+            "stars": 8027
+          },
+          "title": "xh"
+        },
+        {
+          "children": [],
+          "description": null,
+          "node_type": "item",
+          "repo_info": {
+            "archived": false,
+            "id": 806285077,
+            "language": "Python",
+            "last_commit": "2026-03-25T23:30:48Z",
+            "owner": "darrenburns",
+            "repo": "posting",
+            "stars": 12281
+          },
+          "title": "posting"
+        },
+        {
+          "children": [],
+          "description": null,
+          "node_type": "item",
+          "repo_info": {
+            "archived": false,
+            "id": 134918912,
+            "language": "Go",
+            "last_commit": "2025-12-07T20:14:24Z",
+            "owner": "rs",
+            "repo": "curlie",
+            "stars": 3710
+          },
+          "title": "curlie"
+        },
+        {
+          "children": [],
+          "description": null,
+          "node_type": "item",
+          "repo_info": {
+            "archived": true,
+            "id": 191466073,
+            "language": "C#",
+            "last_commit": "2026-01-21T18:04:50Z",
+            "owner": "dotnet",
+            "repo": "HttpRepl",
+            "stars": 711
+          },
+          "title": "HttpRepl"
+        },
+        {
+          "children": [],
+          "description": null,
+          "node_type": "item",
+          "repo_info": {
+            "archived": false,
+            "id": 308876594,
+            "language": "Go",
+            "last_commit": "2025-10-17T14:30:50Z",
+            "owner": "jonaslu",
+            "repo": "ain",
+            "stars": 622
+          },
+          "title": "ain"
+        },
+        {
+          "children": [],
+          "description": null,
+          "node_type": "item",
+          "repo_info": {
+            "archived": false,
+            "id": 97361468,
+            "language": "Go",
+            "last_commit": "2023-12-26T08:27:59Z",
+            "owner": "ktr0731",
+            "repo": "evans",
+            "stars": 4489
+          },
+          "title": "evans"
+        }
+      ],
       "title": "Postman Alternatives - Command-Line (CLI) API Clients"
     },
     {
       "description": "While many API clients include basic assertion capabilities, the tools in this section are specifically designed for automating API tests, often integrating into CI/CD pipelines. They typically treat tests as code or structured data, enabling complex scenarios, data-driven testing, comprehensive reporting, and robust validation. Some popular commercial tools often mentioned in this context include Katalon Studio, SoapUI, TestSigma, Assertible, ReadyAPI, and Apigee (though Apigee is more an API management platform), while JMeter is a powerful open-source tool focused on load testing but usable for functional API tests. The following are primarily open-source frameworks focused on functional and integration API testing.",
-      "items": [],
+      "items": [
+        {
+          "children": [],
+          "description": null,
+          "node_type": "item",
+          "repo_info": {
+            "archived": false,
+            "id": 82285879,
+            "language": "Go",
+            "last_commit": "2026-07-25T03:42:12Z",
+            "owner": "ovh",
+            "repo": "venom",
+            "stars": 1215
+          },
+          "title": "Venom"
+        },
+        {
+          "children": [],
+          "description": null,
+          "node_type": "item",
+          "repo_info": {
+            "archived": false,
+            "id": 19361014,
+            "language": "Python",
+            "last_commit": "2021-06-10T17:22:57Z",
+            "owner": "svanoort",
+            "repo": "pyresttest",
+            "stars": 1165
+          },
+          "title": "pyresttest"
+        },
+        {
+          "children": [],
+          "description": null,
+          "node_type": "item",
+          "repo_info": {
+            "archived": false,
+            "id": 466909944,
+            "language": "Go",
+            "last_commit": "2026-08-14T23:03:59Z",
+            "owner": "k1LoW",
+            "repo": "runn",
+            "stars": 645
+          },
+          "title": "runn"
+        },
+        {
+          "children": [],
+          "description": null,
+          "node_type": "item",
+          "repo_info": {
+            "archived": true,
+            "id": 931860249,
+            "language": "Go",
+            "last_commit": "2025-02-13T01:21:58Z",
+            "owner": "zoncoen",
+            "repo": "scenarigo",
+            "stars": 1
+          },
+          "title": "scenarigo"
+        },
+        {
+          "children": [],
+          "description": null,
+          "node_type": "item",
+          "repo_info": {
+            "archived": true,
+            "id": 12590052,
+            "language": "JavaScript",
+            "last_commit": "2024-05-11T13:19:25Z",
+            "owner": "apiaryio",
+            "repo": "dredd",
+            "stars": 4222
+          },
+          "title": "Dredd"
+        },
+        {
+          "children": [],
+          "description": null,
+          "node_type": "item",
+          "repo_info": {
+            "archived": false,
+            "id": 24688601,
+            "language": "CoffeeScript",
+            "last_commit": "2024-11-20T12:37:27Z",
+            "owner": "cybertk",
+            "repo": "abao",
+            "stars": 352
+          },
+          "title": "abao"
+        }
+      ],
       "title": "Postman Alternatives - Automated API Testing Frameworks"
-    },
-    {
-      "description": "The API client landscape is richer and more diverse than ever before. While Postman and Insomnia played pivotal roles in popularizing graphical API interaction, concerns around cloud dependence, privacy, and cost have catalyzed the growth of exceptional open-source and free alternatives.\nWhether you prioritize offline-first operation (Bruno, Restfox), a comprehensive web-based experience (Hoppscotch), seamless IDE integration (VS Code REST Client, Thunder Client), CLI efficiency (HTTPie, , Hurl), specialized protocol support (gRPC UI, ezy, Firecamp), or robust automated testing (Karate, Step CI, Schemathesis), there is a high-quality, community-driven tool available.\nThis list (Awesome API Clients) provides a starting point for exploring these powerful Postman alternatives and Insomnia alternatives. Evaluate them based on your specific needs – be it individual use, team collaboration, protocol requirements, testing complexity, or philosophical alignment regarding open source and data privacy. The power to choose the right tool for your API workflow, without compromises, is firmly in your hands.",
-      "items": [],
-      "title": "Conclusion: The Flourishing Ecosystem of API Clients"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-19T00:01:14.762Z",
+    "last_updated": "2026-08-19T12:51:05.819Z",
     "original_repository": "furudo-erika/awesome-postman-alternatives",
+    "original_repository_id": 956474815,
     "original_repository_sha": "ac03df367b5cb7c25929cb026cddbb0d3f346343",
     "enhanced_repository": "enhansome/enhansome-postman-alternatives",
     "enhanced_repository_description": null,
