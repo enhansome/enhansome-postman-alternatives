@@ -101,7 +101,7 @@
             "last_commit": "2026-08-18T19:22:11Z",
             "owner": "federicotdn",
             "repo": "verb",
-            "stars": 766
+            "stars": 767
           },
           "title": "verb"
         },
@@ -131,7 +131,7 @@
             "last_commit": "2026-08-18T18:30:58Z",
             "owner": "mistweaverco",
             "repo": "kulala.nvim",
-            "stars": 2146
+            "stars": 2147
           },
           "title": "kulala.nvim"
         }
@@ -167,7 +167,7 @@
             "last_commit": "2026-08-16T21:58:33Z",
             "owner": "ducaale",
             "repo": "xh",
-            "stars": 8027
+            "stars": 8029
           },
           "title": "xh"
         },
@@ -197,7 +197,7 @@
             "last_commit": "2025-12-07T20:14:24Z",
             "owner": "rs",
             "repo": "curlie",
-            "stars": 3710
+            "stars": 3711
           },
           "title": "curlie"
         },
@@ -290,7 +290,7 @@
             "archived": false,
             "id": 466909944,
             "language": "Go",
-            "last_commit": "2026-08-14T23:03:59Z",
+            "last_commit": "2026-08-19T23:43:12Z",
             "owner": "k1LoW",
             "repo": "runn",
             "stars": 645
@@ -347,7 +347,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-19T12:51:05.819Z",
+    "last_updated": "2026-08-20T00:02:05.069Z",
     "original_repository": "furudo-erika/awesome-postman-alternatives",
     "original_repository_id": 956474815,
     "original_repository_sha": "ac03df367b5cb7c25929cb026cddbb0d3f346343",
