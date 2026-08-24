@@ -32,7 +32,7 @@
             "archived": false,
             "id": 609413440,
             "language": "Dart",
-            "last_commit": "2026-08-20T02:47:44Z",
+            "last_commit": "2026-08-23T18:20:47Z",
             "owner": "foss42",
             "repo": "apidash",
             "stars": 2882
@@ -152,7 +152,7 @@
             "last_commit": "2026-08-17T12:35:49Z",
             "owner": "fullstorydev",
             "repo": "grpcurl",
-            "stars": 12782
+            "stars": 12783
           },
           "title": "grpcurl"
         },
@@ -164,10 +164,10 @@
             "archived": false,
             "id": 294521053,
             "language": "Rust",
-            "last_commit": "2026-08-16T21:58:33Z",
+            "last_commit": "2026-08-23T11:18:23Z",
             "owner": "ducaale",
             "repo": "xh",
-            "stars": 8035
+            "stars": 8036
           },
           "title": "xh"
         },
@@ -182,7 +182,7 @@
             "last_commit": "2026-03-25T23:30:48Z",
             "owner": "darrenburns",
             "repo": "posting",
-            "stars": 12299
+            "stars": 12302
           },
           "title": "posting"
         },
@@ -263,7 +263,7 @@
             "last_commit": "2026-07-25T03:42:12Z",
             "owner": "ovh",
             "repo": "venom",
-            "stars": 1215
+            "stars": 1216
           },
           "title": "Venom"
         },
@@ -347,7 +347,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-23T00:00:44.580Z",
+    "last_updated": "2026-08-24T00:00:45.361Z",
     "original_repository": "furudo-erika/awesome-postman-alternatives",
     "original_repository_id": 956474815,
     "original_repository_sha": "ac03df367b5cb7c25929cb026cddbb0d3f346343",
