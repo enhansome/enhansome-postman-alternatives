@@ -9,6 +9,51 @@
           "node_type": "item",
           "repo_info": {
             "archived": false,
+            "id": 428941158,
+            "language": "Vue",
+            "last_commit": "2026-07-03T22:18:31Z",
+            "owner": "flawiddsouza",
+            "repo": "Restfox",
+            "stars": 2746
+          },
+          "title": "Restfox (repo)"
+        },
+        {
+          "children": [],
+          "description": null,
+          "node_type": "item",
+          "repo_info": {
+            "archived": false,
+            "id": 203587744,
+            "language": "TypeScript",
+            "last_commit": "2026-08-24T12:30:15Z",
+            "owner": "hoppscotch",
+            "repo": "hoppscotch",
+            "stars": 80090
+          },
+          "title": "Hoppscotch (repo)"
+        },
+        {
+          "children": [],
+          "description": null,
+          "node_type": "item",
+          "repo_info": {
+            "archived": false,
+            "id": 641935358,
+            "language": "TypeScript",
+            "last_commit": "2026-03-04T06:06:17Z",
+            "owner": "firecamp-dev",
+            "repo": "firecamp",
+            "stars": 2607
+          },
+          "title": "Firecamp (repo)"
+        },
+        {
+          "children": [],
+          "description": null,
+          "node_type": "item",
+          "repo_info": {
+            "archived": false,
             "id": 160253491,
             "language": "JavaScript",
             "last_commit": "2026-08-17T19:23:09Z",
@@ -17,6 +62,66 @@
             "stars": 5921
           },
           "title": "gRPC UI"
+        },
+        {
+          "children": [],
+          "description": null,
+          "node_type": "item",
+          "repo_info": {
+            "archived": false,
+            "id": 471369341,
+            "language": "JavaScript",
+            "last_commit": "2025-09-08T11:57:37Z",
+            "owner": "EsperoTech",
+            "repo": "yaade",
+            "stars": 1986
+          },
+          "title": "Yaade (repo)"
+        },
+        {
+          "children": [],
+          "description": null,
+          "node_type": "item",
+          "repo_info": {
+            "archived": false,
+            "id": 275596885,
+            "language": "TypeScript",
+            "last_commit": "2022-11-03T23:36:21Z",
+            "owner": "sharat87",
+            "repo": "prestige",
+            "stars": 402
+          },
+          "title": "Prestige (repo)"
+        },
+        {
+          "children": [],
+          "description": null,
+          "node_type": "item",
+          "repo_info": {
+            "archived": false,
+            "id": 75255555,
+            "language": null,
+            "last_commit": "2026-08-24T10:30:24Z",
+            "owner": "requestly",
+            "repo": "requestly",
+            "stars": 6750
+          },
+          "title": "Requestly (repo)"
+        },
+        {
+          "children": [],
+          "description": null,
+          "node_type": "item",
+          "repo_info": {
+            "archived": false,
+            "id": 2055965,
+            "language": "JavaScript",
+            "last_commit": "2026-08-24T08:59:07Z",
+            "owner": "swagger-api",
+            "repo": "swagger-ui",
+            "stars": 28985
+          },
+          "title": "Swagger UI (repo)"
         }
       ],
       "title": "Postman Alternatives - Web-Based API Clients"
@@ -30,14 +135,59 @@
           "node_type": "item",
           "repo_info": {
             "archived": false,
+            "id": 542284380,
+            "language": "JavaScript",
+            "last_commit": "2026-08-24T11:50:01Z",
+            "owner": "usebruno",
+            "repo": "bruno",
+            "stars": 46523
+          },
+          "title": "Bruno (repo)"
+        },
+        {
+          "children": [],
+          "description": null,
+          "node_type": "item",
+          "repo_info": {
+            "archived": false,
+            "id": 602379707,
+            "language": "TypeScript",
+            "last_commit": "2026-08-23T15:45:26Z",
+            "owner": "mountain-loop",
+            "repo": "yaak",
+            "stars": 19113
+          },
+          "title": "Yaak (repo)"
+        },
+        {
+          "children": [],
+          "description": null,
+          "node_type": "item",
+          "repo_info": {
+            "archived": false,
             "id": 609413440,
             "language": "Dart",
             "last_commit": "2026-08-23T18:20:47Z",
             "owner": "foss42",
             "repo": "apidash",
-            "stars": 2882
+            "stars": 2881
           },
           "title": "API Dash"
+        },
+        {
+          "children": [],
+          "description": null,
+          "node_type": "item",
+          "repo_info": {
+            "archived": false,
+            "id": 486252545,
+            "language": "TypeScript",
+            "last_commit": "2024-05-26T11:37:45Z",
+            "owner": "getezy",
+            "repo": "ezy",
+            "stars": 1039
+          },
+          "title": "ezy (repo)"
         },
         {
           "children": [],
@@ -68,6 +218,66 @@
             "stars": 1339
           },
           "title": "Milkman"
+        },
+        {
+          "children": [],
+          "description": null,
+          "node_type": "item",
+          "repo_info": {
+            "archived": false,
+            "id": 467317097,
+            "language": "C#",
+            "last_commit": "2026-06-03T17:38:47Z",
+            "owner": "alexandrehtrb",
+            "repo": "Pororoca",
+            "stars": 664
+          },
+          "title": "Pororoca (repo)"
+        },
+        {
+          "children": [],
+          "description": null,
+          "node_type": "item",
+          "repo_info": {
+            "archived": false,
+            "id": 178427324,
+            "language": "C#",
+            "last_commit": "2026-07-02T06:28:23Z",
+            "owner": "jenius-apps",
+            "repo": "nightingale-rest-api-client",
+            "stars": 835
+          },
+          "title": "Nightingale REST Client (repo)"
+        },
+        {
+          "children": [],
+          "description": null,
+          "node_type": "item",
+          "repo_info": {
+            "archived": false,
+            "id": 75255555,
+            "language": null,
+            "last_commit": "2026-08-24T10:30:24Z",
+            "owner": "requestly",
+            "repo": "requestly",
+            "stars": 6750
+          },
+          "title": "Requestly (repo)"
+        },
+        {
+          "children": [],
+          "description": null,
+          "node_type": "item",
+          "repo_info": {
+            "archived": false,
+            "id": 776190936,
+            "language": "Rust",
+            "last_commit": "2026-06-08T17:44:56Z",
+            "owner": "danirod",
+            "repo": "cartero",
+            "stars": 1037
+          },
+          "title": "Cartero (repo)"
         }
       ],
       "title": "Postman Alternatives - Desktop API Clients"
@@ -75,6 +285,21 @@
     {
       "description": "These tools bring API interaction directly into your code editor, minimizing context switching and keeping API testing close to development.",
       "items": [
+        {
+          "children": [],
+          "description": null,
+          "node_type": "item",
+          "repo_info": {
+            "archived": false,
+            "id": 55044933,
+            "language": "TypeScript",
+            "last_commit": "2026-04-23T03:14:02Z",
+            "owner": "Huachao",
+            "repo": "vscode-restclient",
+            "stars": 6043
+          },
+          "title": "VS Code REST Client (repo)"
+        },
         {
           "children": [],
           "description": null,
@@ -147,12 +372,42 @@
           "node_type": "item",
           "repo_info": {
             "archived": false,
+            "id": 569041,
+            "language": "C",
+            "last_commit": "2026-08-24T13:55:11Z",
+            "owner": "curl",
+            "repo": "curl",
+            "stars": 42677
+          },
+          "title": "curl (repo)"
+        },
+        {
+          "children": [],
+          "description": null,
+          "node_type": "item",
+          "repo_info": {
+            "archived": false,
+            "id": 3544424,
+            "language": "Python",
+            "last_commit": "2024-12-17T17:30:35Z",
+            "owner": "httpie",
+            "repo": "cli",
+            "stars": 38446
+          },
+          "title": "HTTPie (repo)"
+        },
+        {
+          "children": [],
+          "description": null,
+          "node_type": "item",
+          "repo_info": {
+            "archived": false,
             "id": 111431261,
             "language": "Go",
             "last_commit": "2026-08-17T12:35:49Z",
             "owner": "fullstorydev",
             "repo": "grpcurl",
-            "stars": 12783
+            "stars": 12784
           },
           "title": "grpcurl"
         },
@@ -167,7 +422,7 @@
             "last_commit": "2026-08-23T11:18:23Z",
             "owner": "ducaale",
             "repo": "xh",
-            "stars": 8036
+            "stars": 8038
           },
           "title": "xh"
         },
@@ -182,7 +437,7 @@
             "last_commit": "2026-03-25T23:30:48Z",
             "owner": "darrenburns",
             "repo": "posting",
-            "stars": 12302
+            "stars": 12303
           },
           "title": "posting"
         },
@@ -245,6 +500,36 @@
             "stars": 4491
           },
           "title": "evans"
+        },
+        {
+          "children": [],
+          "description": null,
+          "node_type": "item",
+          "repo_info": {
+            "archived": false,
+            "id": 327336757,
+            "language": "TypeScript",
+            "last_commit": "2026-03-04T19:23:18Z",
+            "owner": "AnWeber",
+            "repo": "httpyac",
+            "stars": 867
+          },
+          "title": "httpYac (repo)"
+        },
+        {
+          "children": [],
+          "description": null,
+          "node_type": "item",
+          "repo_info": {
+            "archived": false,
+            "id": 753274513,
+            "language": "Rust",
+            "last_commit": "2026-08-23T04:03:25Z",
+            "owner": "Julien-cpsn",
+            "repo": "ATAC",
+            "stars": 3703
+          },
+          "title": "ATAC (repo)"
         }
       ],
       "title": "Postman Alternatives - Command-Line (CLI) API Clients"
@@ -252,6 +537,66 @@
     {
       "description": "While many API clients include basic assertion capabilities, the tools in this section are specifically designed for automating API tests, often integrating into CI/CD pipelines. They typically treat tests as code or structured data, enabling complex scenarios, data-driven testing, comprehensive reporting, and robust validation. Some popular commercial tools often mentioned in this context include Katalon Studio, SoapUI, TestSigma, Assertible, ReadyAPI, and Apigee (though Apigee is more an API management platform), while JMeter is a powerful open-source tool focused on load testing but usable for functional API tests. The following are primarily open-source frameworks focused on functional and integration API testing.",
       "items": [
+        {
+          "children": [],
+          "description": null,
+          "node_type": "item",
+          "repo_info": {
+            "archived": false,
+            "id": 537500924,
+            "language": "TypeScript",
+            "last_commit": "2024-08-03T09:44:52Z",
+            "owner": "stepci",
+            "repo": "stepci",
+            "stars": 1868
+          },
+          "title": "Step CI (repo)"
+        },
+        {
+          "children": [],
+          "description": null,
+          "node_type": "item",
+          "repo_info": {
+            "archived": false,
+            "id": 290243101,
+            "language": "Rust",
+            "last_commit": "2026-08-24T04:39:20Z",
+            "owner": "Orange-OpenSource",
+            "repo": "hurl",
+            "stars": 19155
+          },
+          "title": "Hurl (repo)"
+        },
+        {
+          "children": [],
+          "description": null,
+          "node_type": "item",
+          "repo_info": {
+            "archived": false,
+            "id": 81226206,
+            "language": "Java",
+            "last_commit": "2026-08-24T03:46:55Z",
+            "owner": "karatelabs",
+            "repo": "karate",
+            "stars": 8926
+          },
+          "title": "Karate (repo)"
+        },
+        {
+          "children": [],
+          "description": null,
+          "node_type": "item",
+          "repo_info": {
+            "archived": false,
+            "id": 109144395,
+            "language": "Python",
+            "last_commit": "2026-08-24T08:06:36Z",
+            "owner": "taverntesting",
+            "repo": "tavern",
+            "stars": 1153
+          },
+          "title": "Tavern (repo)"
+        },
         {
           "children": [],
           "description": null,
@@ -317,6 +662,21 @@
           "description": null,
           "node_type": "item",
           "repo_info": {
+            "archived": false,
+            "id": 203157084,
+            "language": "Python",
+            "last_commit": "2026-08-24T13:35:13Z",
+            "owner": "schemathesis",
+            "repo": "schemathesis",
+            "stars": 3556
+          },
+          "title": "Schemathesis (repo)"
+        },
+        {
+          "children": [],
+          "description": null,
+          "node_type": "item",
+          "repo_info": {
             "archived": true,
             "id": 12590052,
             "language": "JavaScript",
@@ -341,13 +701,58 @@
             "stars": 352
           },
           "title": "abao"
+        },
+        {
+          "children": [],
+          "description": null,
+          "node_type": "item",
+          "repo_info": {
+            "archived": false,
+            "id": 94166852,
+            "language": "Go",
+            "last_commit": "2025-12-11T16:50:50Z",
+            "owner": "httprunner",
+            "repo": "httprunner",
+            "stars": 4294
+          },
+          "title": "HttpRunner (repo)"
+        },
+        {
+          "children": [],
+          "description": null,
+          "node_type": "item",
+          "repo_info": {
+            "archived": false,
+            "id": 54400687,
+            "language": "Go",
+            "last_commit": "2026-08-24T00:04:32Z",
+            "owner": "grafana",
+            "repo": "k6",
+            "stars": 31303
+          },
+          "title": "k6 (repo)"
+        },
+        {
+          "children": [],
+          "description": null,
+          "node_type": "item",
+          "repo_info": {
+            "archived": false,
+            "id": 36437041,
+            "language": "TypeScript",
+            "last_commit": "2026-08-14T13:20:22Z",
+            "owner": "artilleryio",
+            "repo": "artillery",
+            "stars": 9057
+          },
+          "title": "Artillery (repo)"
         }
       ],
       "title": "Postman Alternatives - Automated API Testing Frameworks"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T00:00:45.361Z",
+    "last_updated": "2026-08-24T14:19:32.437Z",
     "original_repository": "furudo-erika/awesome-postman-alternatives",
     "original_repository_id": 956474815,
     "original_repository_sha": "ac03df367b5cb7c25929cb026cddbb0d3f346343",
