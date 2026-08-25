@@ -29,7 +29,7 @@
             "last_commit": "2026-08-24T17:33:02Z",
             "owner": "hoppscotch",
             "repo": "hoppscotch",
-            "stars": 80092
+            "stars": 80093
           },
           "title": "Hoppscotch (repo)"
         },
@@ -101,10 +101,10 @@
             "archived": false,
             "id": 75255555,
             "language": null,
-            "last_commit": "2026-08-24T10:30:24Z",
+            "last_commit": "2026-08-25T05:39:29Z",
             "owner": "requestly",
             "repo": "requestly",
-            "stars": 6750
+            "stars": 6749
           },
           "title": "Requestly (repo)"
         },
@@ -119,7 +119,7 @@
             "last_commit": "2026-08-24T08:59:07Z",
             "owner": "swagger-api",
             "repo": "swagger-ui",
-            "stars": 28987
+            "stars": 28986
           },
           "title": "Swagger UI (repo)"
         }
@@ -140,7 +140,7 @@
             "last_commit": "2026-08-24T16:22:02Z",
             "owner": "usebruno",
             "repo": "bruno",
-            "stars": 46524
+            "stars": 46527
           },
           "title": "Bruno (repo)"
         },
@@ -152,7 +152,7 @@
             "archived": false,
             "id": 602379707,
             "language": "TypeScript",
-            "last_commit": "2026-08-23T15:45:26Z",
+            "last_commit": "2026-08-25T04:14:37Z",
             "owner": "mountain-loop",
             "repo": "yaak",
             "stars": 19115
@@ -230,7 +230,7 @@
             "last_commit": "2026-06-03T17:38:47Z",
             "owner": "alexandrehtrb",
             "repo": "Pororoca",
-            "stars": 664
+            "stars": 665
           },
           "title": "Pororoca (repo)"
         },
@@ -257,10 +257,10 @@
             "archived": false,
             "id": 75255555,
             "language": null,
-            "last_commit": "2026-08-24T10:30:24Z",
+            "last_commit": "2026-08-25T05:39:29Z",
             "owner": "requestly",
             "repo": "requestly",
-            "stars": 6750
+            "stars": 6749
           },
           "title": "Requestly (repo)"
         },
@@ -296,7 +296,7 @@
             "last_commit": "2026-04-23T03:14:02Z",
             "owner": "Huachao",
             "repo": "vscode-restclient",
-            "stars": 6043
+            "stars": 6044
           },
           "title": "VS Code REST Client (repo)"
         },
@@ -374,10 +374,10 @@
             "archived": false,
             "id": 569041,
             "language": "C",
-            "last_commit": "2026-08-24T21:38:38Z",
+            "last_commit": "2026-08-25T05:48:37Z",
             "owner": "curl",
             "repo": "curl",
-            "stars": 42677
+            "stars": 42678
           },
           "title": "curl (repo)"
         },
@@ -392,7 +392,7 @@
             "last_commit": "2024-12-17T17:30:35Z",
             "owner": "httpie",
             "repo": "cli",
-            "stars": 38448
+            "stars": 38449
           },
           "title": "HTTPie (repo)"
         },
@@ -422,7 +422,7 @@
             "last_commit": "2026-08-23T11:18:23Z",
             "owner": "ducaale",
             "repo": "xh",
-            "stars": 8039
+            "stars": 8038
           },
           "title": "xh"
         },
@@ -437,7 +437,7 @@
             "last_commit": "2026-03-25T23:30:48Z",
             "owner": "darrenburns",
             "repo": "posting",
-            "stars": 12306
+            "stars": 12309
           },
           "title": "posting"
         },
@@ -560,7 +560,7 @@
             "archived": false,
             "id": 290243101,
             "language": "Rust",
-            "last_commit": "2026-08-24T04:39:20Z",
+            "last_commit": "2026-08-25T03:17:15Z",
             "owner": "Orange-OpenSource",
             "repo": "hurl",
             "stars": 19157
@@ -668,7 +668,7 @@
             "last_commit": "2026-08-24T21:28:27Z",
             "owner": "schemathesis",
             "repo": "schemathesis",
-            "stars": 3558
+            "stars": 3559
           },
           "title": "Schemathesis (repo)"
         },
@@ -725,10 +725,10 @@
             "archived": false,
             "id": 54400687,
             "language": "Go",
-            "last_commit": "2026-08-24T18:46:11Z",
+            "last_commit": "2026-08-25T02:20:13Z",
             "owner": "grafana",
             "repo": "k6",
-            "stars": 31308
+            "stars": 31311
           },
           "title": "k6 (repo)"
         },
@@ -752,7 +752,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T00:02:09.122Z",
+    "last_updated": "2026-08-25T06:13:07.273Z",
     "original_repository": "furudo-erika/awesome-postman-alternatives",
     "original_repository_id": 956474815,
     "original_repository_sha": "ac03df367b5cb7c25929cb026cddbb0d3f346343",
