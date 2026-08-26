@@ -14,7 +14,7 @@
             "last_commit": "2026-07-03T22:18:31Z",
             "owner": "flawiddsouza",
             "repo": "Restfox",
-            "stars": 2746
+            "stars": 2745
           },
           "title": "Restfox (repo)"
         },
@@ -26,10 +26,10 @@
             "archived": false,
             "id": 203587744,
             "language": "TypeScript",
-            "last_commit": "2026-08-24T17:33:02Z",
+            "last_commit": "2026-08-25T12:57:51Z",
             "owner": "hoppscotch",
             "repo": "hoppscotch",
-            "stars": 80093
+            "stars": 80099
           },
           "title": "Hoppscotch (repo)"
         },
@@ -101,7 +101,7 @@
             "archived": false,
             "id": 75255555,
             "language": null,
-            "last_commit": "2026-08-25T05:39:29Z",
+            "last_commit": "2026-08-25T10:30:29Z",
             "owner": "requestly",
             "repo": "requestly",
             "stars": 6749
@@ -116,10 +116,10 @@
             "archived": false,
             "id": 2055965,
             "language": "JavaScript",
-            "last_commit": "2026-08-24T08:59:07Z",
+            "last_commit": "2026-08-25T08:20:50Z",
             "owner": "swagger-api",
             "repo": "swagger-ui",
-            "stars": 28986
+            "stars": 28987
           },
           "title": "Swagger UI (repo)"
         }
@@ -137,10 +137,10 @@
             "archived": false,
             "id": 542284380,
             "language": "JavaScript",
-            "last_commit": "2026-08-24T16:22:02Z",
+            "last_commit": "2026-08-25T12:37:14Z",
             "owner": "usebruno",
             "repo": "bruno",
-            "stars": 46527
+            "stars": 46541
           },
           "title": "Bruno (repo)"
         },
@@ -152,10 +152,10 @@
             "archived": false,
             "id": 602379707,
             "language": "TypeScript",
-            "last_commit": "2026-08-25T04:14:37Z",
+            "last_commit": "2026-08-25T16:58:38Z",
             "owner": "mountain-loop",
             "repo": "yaak",
-            "stars": 19115
+            "stars": 19117
           },
           "title": "Yaak (repo)"
         },
@@ -200,7 +200,7 @@
             "last_commit": "2023-01-04T07:51:04Z",
             "owner": "bloomrpc",
             "repo": "bloomrpc",
-            "stars": 8983
+            "stars": 8984
           },
           "title": "BloomRPC"
         },
@@ -257,7 +257,7 @@
             "archived": false,
             "id": 75255555,
             "language": null,
-            "last_commit": "2026-08-25T05:39:29Z",
+            "last_commit": "2026-08-25T10:30:29Z",
             "owner": "requestly",
             "repo": "requestly",
             "stars": 6749
@@ -296,7 +296,7 @@
             "last_commit": "2026-04-23T03:14:02Z",
             "owner": "Huachao",
             "repo": "vscode-restclient",
-            "stars": 6044
+            "stars": 6045
           },
           "title": "VS Code REST Client (repo)"
         },
@@ -356,7 +356,7 @@
             "last_commit": "2026-08-18T18:30:58Z",
             "owner": "mistweaverco",
             "repo": "kulala.nvim",
-            "stars": 2150
+            "stars": 2152
           },
           "title": "kulala.nvim"
         }
@@ -374,10 +374,10 @@
             "archived": false,
             "id": 569041,
             "language": "C",
-            "last_commit": "2026-08-25T05:48:37Z",
+            "last_commit": "2026-08-25T22:11:45Z",
             "owner": "curl",
             "repo": "curl",
-            "stars": 42678
+            "stars": 42685
           },
           "title": "curl (repo)"
         },
@@ -407,7 +407,7 @@
             "last_commit": "2026-08-17T12:35:49Z",
             "owner": "fullstorydev",
             "repo": "grpcurl",
-            "stars": 12785
+            "stars": 12788
           },
           "title": "grpcurl"
         },
@@ -422,7 +422,7 @@
             "last_commit": "2026-08-23T11:18:23Z",
             "owner": "ducaale",
             "repo": "xh",
-            "stars": 8038
+            "stars": 8039
           },
           "title": "xh"
         },
@@ -437,7 +437,7 @@
             "last_commit": "2026-03-25T23:30:48Z",
             "owner": "darrenburns",
             "repo": "posting",
-            "stars": 12309
+            "stars": 12314
           },
           "title": "posting"
         },
@@ -452,7 +452,7 @@
             "last_commit": "2025-12-07T20:14:24Z",
             "owner": "rs",
             "repo": "curlie",
-            "stars": 3712
+            "stars": 3713
           },
           "title": "curlie"
         },
@@ -560,10 +560,10 @@
             "archived": false,
             "id": 290243101,
             "language": "Rust",
-            "last_commit": "2026-08-25T03:17:15Z",
+            "last_commit": "2026-08-25T20:54:53Z",
             "owner": "Orange-OpenSource",
             "repo": "hurl",
-            "stars": 19157
+            "stars": 19158
           },
           "title": "Hurl (repo)"
         },
@@ -578,7 +578,7 @@
             "last_commit": "2026-08-24T03:46:55Z",
             "owner": "karatelabs",
             "repo": "karate",
-            "stars": 8926
+            "stars": 8928
           },
           "title": "Karate (repo)"
         },
@@ -590,7 +590,7 @@
             "archived": false,
             "id": 109144395,
             "language": "Python",
-            "last_commit": "2026-08-24T20:37:02Z",
+            "last_commit": "2026-08-25T19:46:34Z",
             "owner": "taverntesting",
             "repo": "tavern",
             "stars": 1153
@@ -608,7 +608,7 @@
             "last_commit": "2026-07-25T03:42:12Z",
             "owner": "ovh",
             "repo": "venom",
-            "stars": 1216
+            "stars": 1217
           },
           "title": "Venom"
         },
@@ -665,10 +665,10 @@
             "archived": false,
             "id": 203157084,
             "language": "Python",
-            "last_commit": "2026-08-24T21:28:27Z",
+            "last_commit": "2026-08-25T21:52:11Z",
             "owner": "schemathesis",
             "repo": "schemathesis",
-            "stars": 3559
+            "stars": 3561
           },
           "title": "Schemathesis (repo)"
         },
@@ -713,7 +713,7 @@
             "last_commit": "2025-12-11T16:50:50Z",
             "owner": "httprunner",
             "repo": "httprunner",
-            "stars": 4294
+            "stars": 4295
           },
           "title": "HttpRunner (repo)"
         },
@@ -725,10 +725,10 @@
             "archived": false,
             "id": 54400687,
             "language": "Go",
-            "last_commit": "2026-08-25T02:20:13Z",
+            "last_commit": "2026-08-25T18:47:41Z",
             "owner": "grafana",
             "repo": "k6",
-            "stars": 31311
+            "stars": 31319
           },
           "title": "k6 (repo)"
         },
@@ -743,7 +743,7 @@
             "last_commit": "2026-08-14T13:20:22Z",
             "owner": "artilleryio",
             "repo": "artillery",
-            "stars": 9057
+            "stars": 9058
           },
           "title": "Artillery (repo)"
         }
@@ -752,7 +752,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T06:13:07.273Z",
+    "last_updated": "2026-08-26T00:02:37.303Z",
     "original_repository": "furudo-erika/awesome-postman-alternatives",
     "original_repository_id": 956474815,
     "original_repository_sha": "ac03df367b5cb7c25929cb026cddbb0d3f346343",
