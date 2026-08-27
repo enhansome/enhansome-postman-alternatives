@@ -14,7 +14,7 @@
             "last_commit": "2026-07-03T22:18:31Z",
             "owner": "flawiddsouza",
             "repo": "Restfox",
-            "stars": 2746
+            "stars": 2747
           },
           "title": "Restfox (repo)"
         },
@@ -26,10 +26,10 @@
             "archived": false,
             "id": 203587744,
             "language": "TypeScript",
-            "last_commit": "2026-08-26T14:31:15Z",
+            "last_commit": "2026-08-27T11:29:09Z",
             "owner": "hoppscotch",
             "repo": "hoppscotch",
-            "stars": 80100
+            "stars": 80102
           },
           "title": "Hoppscotch (repo)"
         },
@@ -59,7 +59,7 @@
             "last_commit": "2026-08-17T19:23:09Z",
             "owner": "fullstorydev",
             "repo": "grpcui",
-            "stars": 5921
+            "stars": 5922
           },
           "title": "gRPC UI"
         },
@@ -74,7 +74,7 @@
             "last_commit": "2025-09-08T11:57:37Z",
             "owner": "EsperoTech",
             "repo": "yaade",
-            "stars": 1986
+            "stars": 1987
           },
           "title": "Yaade (repo)"
         },
@@ -101,7 +101,7 @@
             "archived": false,
             "id": 75255555,
             "language": null,
-            "last_commit": "2026-08-26T10:30:09Z",
+            "last_commit": "2026-08-27T10:30:13Z",
             "owner": "requestly",
             "repo": "requestly",
             "stars": 6750
@@ -116,10 +116,10 @@
             "archived": false,
             "id": 2055965,
             "language": "JavaScript",
-            "last_commit": "2026-08-26T23:02:48Z",
+            "last_commit": "2026-08-27T11:43:27Z",
             "owner": "swagger-api",
             "repo": "swagger-ui",
-            "stars": 28990
+            "stars": 28993
           },
           "title": "Swagger UI (repo)"
         }
@@ -137,10 +137,10 @@
             "archived": false,
             "id": 542284380,
             "language": "JavaScript",
-            "last_commit": "2026-08-26T13:49:39Z",
+            "last_commit": "2026-08-27T11:30:29Z",
             "owner": "usebruno",
             "repo": "bruno",
-            "stars": 46567
+            "stars": 46581
           },
           "title": "Bruno (repo)"
         },
@@ -155,7 +155,7 @@
             "last_commit": "2026-08-26T23:54:48Z",
             "owner": "mountain-loop",
             "repo": "yaak",
-            "stars": 19116
+            "stars": 19117
           },
           "title": "Yaak (repo)"
         },
@@ -257,7 +257,7 @@
             "archived": false,
             "id": 75255555,
             "language": null,
-            "last_commit": "2026-08-26T10:30:09Z",
+            "last_commit": "2026-08-27T10:30:13Z",
             "owner": "requestly",
             "repo": "requestly",
             "stars": 6750
@@ -296,7 +296,7 @@
             "last_commit": "2026-04-23T03:14:02Z",
             "owner": "Huachao",
             "repo": "vscode-restclient",
-            "stars": 6045
+            "stars": 6044
           },
           "title": "VS Code REST Client (repo)"
         },
@@ -356,7 +356,7 @@
             "last_commit": "2026-08-18T18:30:58Z",
             "owner": "mistweaverco",
             "repo": "kulala.nvim",
-            "stars": 2151
+            "stars": 2152
           },
           "title": "kulala.nvim"
         }
@@ -374,10 +374,10 @@
             "archived": false,
             "id": 569041,
             "language": "C",
-            "last_commit": "2026-08-26T21:45:52Z",
+            "last_commit": "2026-08-27T11:44:05Z",
             "owner": "curl",
             "repo": "curl",
-            "stars": 42690
+            "stars": 42695
           },
           "title": "curl (repo)"
         },
@@ -392,7 +392,7 @@
             "last_commit": "2024-12-17T17:30:35Z",
             "owner": "httpie",
             "repo": "cli",
-            "stars": 38458
+            "stars": 38460
           },
           "title": "HTTPie (repo)"
         },
@@ -422,7 +422,7 @@
             "last_commit": "2026-08-23T11:18:23Z",
             "owner": "ducaale",
             "repo": "xh",
-            "stars": 8041
+            "stars": 8042
           },
           "title": "xh"
         },
@@ -437,7 +437,7 @@
             "last_commit": "2026-03-25T23:30:48Z",
             "owner": "darrenburns",
             "repo": "posting",
-            "stars": 12323
+            "stars": 12326
           },
           "title": "posting"
         },
@@ -512,7 +512,7 @@
             "last_commit": "2026-03-04T19:23:18Z",
             "owner": "AnWeber",
             "repo": "httpyac",
-            "stars": 867
+            "stars": 868
           },
           "title": "httpYac (repo)"
         },
@@ -563,7 +563,7 @@
             "last_commit": "2026-08-27T04:44:30Z",
             "owner": "Orange-OpenSource",
             "repo": "hurl",
-            "stars": 19160
+            "stars": 19161
           },
           "title": "Hurl (repo)"
         },
@@ -578,7 +578,7 @@
             "last_commit": "2026-08-26T13:28:14Z",
             "owner": "karatelabs",
             "repo": "karate",
-            "stars": 8929
+            "stars": 8930
           },
           "title": "Karate (repo)"
         },
@@ -725,10 +725,10 @@
             "archived": false,
             "id": 54400687,
             "language": "Go",
-            "last_commit": "2026-08-26T14:01:33Z",
+            "last_commit": "2026-08-27T08:17:15Z",
             "owner": "grafana",
             "repo": "k6",
-            "stars": 31328
+            "stars": 31330
           },
           "title": "k6 (repo)"
         },
@@ -743,7 +743,7 @@
             "last_commit": "2026-08-26T14:24:46Z",
             "owner": "artilleryio",
             "repo": "artillery",
-            "stars": 9058
+            "stars": 9059
           },
           "title": "Artillery (repo)"
         }
@@ -752,9 +752,16 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T05:08:05.507Z",
-    "original_repository": "furudo-erika/awesome-postman-alternatives",
-    "original_repository_id": 956474815,
+    "last_updated": "2026-08-27T11:58:37.285Z",
+    "original_repository_info": {
+      "archived": false,
+      "id": 956474815,
+      "language": null,
+      "last_commit": "2026-06-08T12:35:38Z",
+      "owner": "furudo-erika",
+      "repo": "awesome-postman-alternatives",
+      "stars": 615
+    },
     "original_repository_sha": "ac03df367b5cb7c25929cb026cddbb0d3f346343",
     "enhanced_repository": "enhansome/enhansome-postman-alternatives",
     "enhanced_repository_description": null,
