@@ -14,9 +14,10 @@
             "last_commit": "2026-07-03T22:18:31Z",
             "owner": "flawiddsouza",
             "repo": "Restfox",
-            "stars": 2747
+            "stars": 2746
           },
-          "title": "Restfox (repo)"
+          "title": "Restfox (repo)",
+          "first_seen": "2026-08-28T07:06:35.139Z"
         },
         {
           "children": [],
@@ -26,12 +27,13 @@
             "archived": false,
             "id": 203587744,
             "language": "TypeScript",
-            "last_commit": "2026-08-27T11:29:09Z",
+            "last_commit": "2026-08-27T18:30:52Z",
             "owner": "hoppscotch",
             "repo": "hoppscotch",
-            "stars": 80102
+            "stars": 80107
           },
-          "title": "Hoppscotch (repo)"
+          "title": "Hoppscotch (repo)",
+          "first_seen": "2026-08-28T07:06:35.139Z"
         },
         {
           "children": [],
@@ -46,7 +48,8 @@
             "repo": "firecamp",
             "stars": 2608
           },
-          "title": "Firecamp (repo)"
+          "title": "Firecamp (repo)",
+          "first_seen": "2026-08-28T07:06:35.139Z"
         },
         {
           "children": [],
@@ -61,7 +64,8 @@
             "repo": "grpcui",
             "stars": 5922
           },
-          "title": "gRPC UI"
+          "title": "gRPC UI",
+          "first_seen": "2026-08-28T07:06:35.139Z"
         },
         {
           "children": [],
@@ -76,7 +80,8 @@
             "repo": "yaade",
             "stars": 1987
           },
-          "title": "Yaade (repo)"
+          "title": "Yaade (repo)",
+          "first_seen": "2026-08-28T07:06:35.139Z"
         },
         {
           "children": [],
@@ -91,7 +96,8 @@
             "repo": "prestige",
             "stars": 402
           },
-          "title": "Prestige (repo)"
+          "title": "Prestige (repo)",
+          "first_seen": "2026-08-28T07:06:35.139Z"
         },
         {
           "children": [],
@@ -104,9 +110,10 @@
             "last_commit": "2026-08-27T10:30:13Z",
             "owner": "requestly",
             "repo": "requestly",
-            "stars": 6750
+            "stars": 6751
           },
-          "title": "Requestly (repo)"
+          "title": "Requestly (repo)",
+          "first_seen": "2026-08-28T07:06:35.139Z"
         },
         {
           "children": [],
@@ -116,12 +123,13 @@
             "archived": false,
             "id": 2055965,
             "language": "JavaScript",
-            "last_commit": "2026-08-27T11:43:27Z",
+            "last_commit": "2026-08-27T23:02:51Z",
             "owner": "swagger-api",
             "repo": "swagger-ui",
-            "stars": 28993
+            "stars": 28994
           },
-          "title": "Swagger UI (repo)"
+          "title": "Swagger UI (repo)",
+          "first_seen": "2026-08-28T07:06:35.139Z"
         }
       ],
       "title": "Postman Alternatives - Web-Based API Clients"
@@ -137,12 +145,13 @@
             "archived": false,
             "id": 542284380,
             "language": "JavaScript",
-            "last_commit": "2026-08-27T11:30:29Z",
+            "last_commit": "2026-08-28T03:04:29Z",
             "owner": "usebruno",
             "repo": "bruno",
-            "stars": 46581
+            "stars": 46595
           },
-          "title": "Bruno (repo)"
+          "title": "Bruno (repo)",
+          "first_seen": "2026-08-28T07:06:35.139Z"
         },
         {
           "children": [],
@@ -152,12 +161,13 @@
             "archived": false,
             "id": 602379707,
             "language": "TypeScript",
-            "last_commit": "2026-08-26T23:54:48Z",
+            "last_commit": "2026-08-27T22:28:12Z",
             "owner": "mountain-loop",
             "repo": "yaak",
-            "stars": 19117
+            "stars": 19120
           },
-          "title": "Yaak (repo)"
+          "title": "Yaak (repo)",
+          "first_seen": "2026-08-28T07:06:35.139Z"
         },
         {
           "children": [],
@@ -170,9 +180,10 @@
             "last_commit": "2026-08-24T15:00:49Z",
             "owner": "foss42",
             "repo": "apidash",
-            "stars": 2883
+            "stars": 2885
           },
-          "title": "API Dash"
+          "title": "API Dash",
+          "first_seen": "2026-08-28T07:06:35.139Z"
         },
         {
           "children": [],
@@ -187,7 +198,8 @@
             "repo": "ezy",
             "stars": 1039
           },
-          "title": "ezy (repo)"
+          "title": "ezy (repo)",
+          "first_seen": "2026-08-28T07:06:35.139Z"
         },
         {
           "children": [],
@@ -200,9 +212,10 @@
             "last_commit": "2023-01-04T07:51:04Z",
             "owner": "bloomrpc",
             "repo": "bloomrpc",
-            "stars": 8984
+            "stars": 8983
           },
-          "title": "BloomRPC"
+          "title": "BloomRPC",
+          "first_seen": "2026-08-28T07:06:35.139Z"
         },
         {
           "children": [],
@@ -217,7 +230,8 @@
             "repo": "milkman",
             "stars": 1339
           },
-          "title": "Milkman"
+          "title": "Milkman",
+          "first_seen": "2026-08-28T07:06:35.139Z"
         },
         {
           "children": [],
@@ -232,7 +246,8 @@
             "repo": "Pororoca",
             "stars": 665
           },
-          "title": "Pororoca (repo)"
+          "title": "Pororoca (repo)",
+          "first_seen": "2026-08-28T07:06:35.139Z"
         },
         {
           "children": [],
@@ -247,7 +262,8 @@
             "repo": "nightingale-rest-api-client",
             "stars": 835
           },
-          "title": "Nightingale REST Client (repo)"
+          "title": "Nightingale REST Client (repo)",
+          "first_seen": "2026-08-28T07:06:35.139Z"
         },
         {
           "children": [],
@@ -260,9 +276,10 @@
             "last_commit": "2026-08-27T10:30:13Z",
             "owner": "requestly",
             "repo": "requestly",
-            "stars": 6750
+            "stars": 6751
           },
-          "title": "Requestly (repo)"
+          "title": "Requestly (repo)",
+          "first_seen": "2026-08-28T07:06:35.139Z"
         },
         {
           "children": [],
@@ -275,9 +292,10 @@
             "last_commit": "2026-06-08T17:44:56Z",
             "owner": "danirod",
             "repo": "cartero",
-            "stars": 1037
+            "stars": 1038
           },
-          "title": "Cartero (repo)"
+          "title": "Cartero (repo)",
+          "first_seen": "2026-08-28T07:06:35.139Z"
         }
       ],
       "title": "Postman Alternatives - Desktop API Clients"
@@ -298,7 +316,8 @@
             "repo": "vscode-restclient",
             "stars": 6044
           },
-          "title": "VS Code REST Client (repo)"
+          "title": "VS Code REST Client (repo)",
+          "first_seen": "2026-08-28T07:06:35.139Z"
         },
         {
           "children": [],
@@ -313,7 +332,8 @@
             "repo": "restclient.el",
             "stars": 2014
           },
-          "title": "restclient.el"
+          "title": "restclient.el",
+          "first_seen": "2026-08-28T07:06:35.139Z"
         },
         {
           "children": [],
@@ -328,7 +348,8 @@
             "repo": "verb",
             "stars": 764
           },
-          "title": "verb"
+          "title": "verb",
+          "first_seen": "2026-08-28T07:06:35.139Z"
         },
         {
           "children": [],
@@ -343,7 +364,8 @@
             "repo": "rest.nvim",
             "stars": 2051
           },
-          "title": "rest.nvim"
+          "title": "rest.nvim",
+          "first_seen": "2026-08-28T07:06:35.139Z"
         },
         {
           "children": [],
@@ -358,7 +380,8 @@
             "repo": "kulala.nvim",
             "stars": 2152
           },
-          "title": "kulala.nvim"
+          "title": "kulala.nvim",
+          "first_seen": "2026-08-28T07:06:35.139Z"
         }
       ],
       "title": "Postman Alternatives - IDE Integration API Clients"
@@ -374,12 +397,13 @@
             "archived": false,
             "id": 569041,
             "language": "C",
-            "last_commit": "2026-08-27T11:44:05Z",
+            "last_commit": "2026-08-27T22:19:00Z",
             "owner": "curl",
             "repo": "curl",
-            "stars": 42695
+            "stars": 42703
           },
-          "title": "curl (repo)"
+          "title": "curl (repo)",
+          "first_seen": "2026-08-28T07:06:35.139Z"
         },
         {
           "children": [],
@@ -392,9 +416,10 @@
             "last_commit": "2024-12-17T17:30:35Z",
             "owner": "httpie",
             "repo": "cli",
-            "stars": 38460
+            "stars": 38465
           },
-          "title": "HTTPie (repo)"
+          "title": "HTTPie (repo)",
+          "first_seen": "2026-08-28T07:06:35.139Z"
         },
         {
           "children": [],
@@ -407,9 +432,10 @@
             "last_commit": "2026-08-17T12:35:49Z",
             "owner": "fullstorydev",
             "repo": "grpcurl",
-            "stars": 12788
+            "stars": 12790
           },
-          "title": "grpcurl"
+          "title": "grpcurl",
+          "first_seen": "2026-08-28T07:06:35.139Z"
         },
         {
           "children": [],
@@ -424,7 +450,8 @@
             "repo": "xh",
             "stars": 8042
           },
-          "title": "xh"
+          "title": "xh",
+          "first_seen": "2026-08-28T07:06:35.139Z"
         },
         {
           "children": [],
@@ -437,9 +464,10 @@
             "last_commit": "2026-03-25T23:30:48Z",
             "owner": "darrenburns",
             "repo": "posting",
-            "stars": 12326
+            "stars": 12324
           },
-          "title": "posting"
+          "title": "posting",
+          "first_seen": "2026-08-28T07:06:35.139Z"
         },
         {
           "children": [],
@@ -452,9 +480,10 @@
             "last_commit": "2025-12-07T20:14:24Z",
             "owner": "rs",
             "repo": "curlie",
-            "stars": 3713
+            "stars": 3714
           },
-          "title": "curlie"
+          "title": "curlie",
+          "first_seen": "2026-08-28T07:06:35.139Z"
         },
         {
           "children": [],
@@ -469,7 +498,8 @@
             "repo": "HttpRepl",
             "stars": 711
           },
-          "title": "HttpRepl"
+          "title": "HttpRepl",
+          "first_seen": "2026-08-28T07:06:35.139Z"
         },
         {
           "children": [],
@@ -484,7 +514,8 @@
             "repo": "ain",
             "stars": 621
           },
-          "title": "ain"
+          "title": "ain",
+          "first_seen": "2026-08-28T07:06:35.139Z"
         },
         {
           "children": [],
@@ -499,7 +530,8 @@
             "repo": "evans",
             "stars": 4492
           },
-          "title": "evans"
+          "title": "evans",
+          "first_seen": "2026-08-28T07:06:35.139Z"
         },
         {
           "children": [],
@@ -514,7 +546,8 @@
             "repo": "httpyac",
             "stars": 868
           },
-          "title": "httpYac (repo)"
+          "title": "httpYac (repo)",
+          "first_seen": "2026-08-28T07:06:35.139Z"
         },
         {
           "children": [],
@@ -527,9 +560,10 @@
             "last_commit": "2026-08-23T04:03:25Z",
             "owner": "Julien-cpsn",
             "repo": "ATAC",
-            "stars": 3704
+            "stars": 3705
           },
-          "title": "ATAC (repo)"
+          "title": "ATAC (repo)",
+          "first_seen": "2026-08-28T07:06:35.139Z"
         }
       ],
       "title": "Postman Alternatives - Command-Line (CLI) API Clients"
@@ -550,7 +584,8 @@
             "repo": "stepci",
             "stars": 1868
           },
-          "title": "Step CI (repo)"
+          "title": "Step CI (repo)",
+          "first_seen": "2026-08-28T07:06:35.139Z"
         },
         {
           "children": [],
@@ -560,12 +595,13 @@
             "archived": false,
             "id": 290243101,
             "language": "Rust",
-            "last_commit": "2026-08-27T04:44:30Z",
+            "last_commit": "2026-08-28T06:31:19Z",
             "owner": "Orange-OpenSource",
             "repo": "hurl",
-            "stars": 19161
+            "stars": 19162
           },
-          "title": "Hurl (repo)"
+          "title": "Hurl (repo)",
+          "first_seen": "2026-08-28T07:06:35.139Z"
         },
         {
           "children": [],
@@ -578,9 +614,10 @@
             "last_commit": "2026-08-26T13:28:14Z",
             "owner": "karatelabs",
             "repo": "karate",
-            "stars": 8930
+            "stars": 8931
           },
-          "title": "Karate (repo)"
+          "title": "Karate (repo)",
+          "first_seen": "2026-08-28T07:06:35.139Z"
         },
         {
           "children": [],
@@ -590,12 +627,13 @@
             "archived": false,
             "id": 109144395,
             "language": "Python",
-            "last_commit": "2026-08-25T19:46:34Z",
+            "last_commit": "2026-08-28T05:03:22Z",
             "owner": "taverntesting",
             "repo": "tavern",
             "stars": 1153
           },
-          "title": "Tavern (repo)"
+          "title": "Tavern (repo)",
+          "first_seen": "2026-08-28T07:06:35.139Z"
         },
         {
           "children": [],
@@ -605,12 +643,13 @@
             "archived": false,
             "id": 82285879,
             "language": "Go",
-            "last_commit": "2026-07-25T03:42:12Z",
+            "last_commit": "2026-08-27T16:36:37Z",
             "owner": "ovh",
             "repo": "venom",
             "stars": 1217
           },
-          "title": "Venom"
+          "title": "Venom",
+          "first_seen": "2026-08-28T07:06:35.139Z"
         },
         {
           "children": [],
@@ -625,7 +664,8 @@
             "repo": "pyresttest",
             "stars": 1165
           },
-          "title": "pyresttest"
+          "title": "pyresttest",
+          "first_seen": "2026-08-28T07:06:35.139Z"
         },
         {
           "children": [],
@@ -640,7 +680,8 @@
             "repo": "runn",
             "stars": 648
           },
-          "title": "runn"
+          "title": "runn",
+          "first_seen": "2026-08-28T07:06:35.139Z"
         },
         {
           "children": [],
@@ -655,7 +696,8 @@
             "repo": "scenarigo",
             "stars": 1
           },
-          "title": "scenarigo"
+          "title": "scenarigo",
+          "first_seen": "2026-08-28T07:06:35.139Z"
         },
         {
           "children": [],
@@ -665,12 +707,13 @@
             "archived": false,
             "id": 203157084,
             "language": "Python",
-            "last_commit": "2026-08-26T20:12:36Z",
+            "last_commit": "2026-08-28T06:54:36Z",
             "owner": "schemathesis",
             "repo": "schemathesis",
             "stars": 3564
           },
-          "title": "Schemathesis (repo)"
+          "title": "Schemathesis (repo)",
+          "first_seen": "2026-08-28T07:06:35.139Z"
         },
         {
           "children": [],
@@ -685,7 +728,8 @@
             "repo": "dredd",
             "stars": 4222
           },
-          "title": "Dredd"
+          "title": "Dredd",
+          "first_seen": "2026-08-28T07:06:35.139Z"
         },
         {
           "children": [],
@@ -700,7 +744,8 @@
             "repo": "abao",
             "stars": 352
           },
-          "title": "abao"
+          "title": "abao",
+          "first_seen": "2026-08-28T07:06:35.139Z"
         },
         {
           "children": [],
@@ -715,7 +760,8 @@
             "repo": "httprunner",
             "stars": 4295
           },
-          "title": "HttpRunner (repo)"
+          "title": "HttpRunner (repo)",
+          "first_seen": "2026-08-28T07:06:35.139Z"
         },
         {
           "children": [],
@@ -725,12 +771,13 @@
             "archived": false,
             "id": 54400687,
             "language": "Go",
-            "last_commit": "2026-08-27T08:17:15Z",
+            "last_commit": "2026-08-28T03:03:35Z",
             "owner": "grafana",
             "repo": "k6",
-            "stars": 31330
+            "stars": 31341
           },
-          "title": "k6 (repo)"
+          "title": "k6 (repo)",
+          "first_seen": "2026-08-28T07:06:35.139Z"
         },
         {
           "children": [],
@@ -743,16 +790,17 @@
             "last_commit": "2026-08-26T14:24:46Z",
             "owner": "artilleryio",
             "repo": "artillery",
-            "stars": 9059
+            "stars": 9060
           },
-          "title": "Artillery (repo)"
+          "title": "Artillery (repo)",
+          "first_seen": "2026-08-28T07:06:35.139Z"
         }
       ],
       "title": "Postman Alternatives - Automated API Testing Frameworks"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T11:58:37.285Z",
+    "last_updated": "2026-08-28T07:06:35.139Z",
     "original_repository_info": {
       "archived": false,
       "id": 956474815,
