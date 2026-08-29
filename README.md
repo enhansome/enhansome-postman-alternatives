@@ -235,7 +235,7 @@ Indispensable for automation, scripting, and terminal enthusiasts, **CLI** tools
 * **Keywords:** Friendly HTTP requests, Fast CLI tool, Rust.
 * **Description:** Built with Rust, `xh` is another **friendly** and **fast** CLI tool for sending HTTP requests, positioned as an alternative to HTTPie. It offers similar usability improvements over `curl`, focusing on performance and a pleasant user experience with features like simplified syntax and colored output.
 
-### [posting](https://github.com/darrenburns/posting) ⭐ 12,330 | 🐛 83 | 🌐 Python | 📅 2026-03-25
+### [posting](https://github.com/darrenburns/posting) ⭐ 12,331 | 🐛 83 | 🌐 Python | 📅 2026-03-25
 
 * **Keywords:** Modern API client, Terminal-based.
 * **Description:** `posting` aims to be a modern API client living entirely in the terminal, potentially offering a more interactive or structured experience than simple request/response tools, possibly managing contexts or sessions within its interface.
