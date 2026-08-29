@@ -9,12 +9,31 @@
           "node_type": "item",
           "repo_info": {
             "archived": false,
+            "description": "Offline-First Minimalistic HTTP & Socket Testing Client for the Web & Desktop",
+            "homepage": "https://restfox.dev",
             "id": 428941158,
             "language": "Vue",
+            "license": "MIT",
             "last_commit": "2026-07-03T22:18:31Z",
+            "open_issues": 48,
             "owner": "flawiddsouza",
             "repo": "Restfox",
-            "stars": 2746
+            "stars": 2747,
+            "topics": [
+              "api-client",
+              "api-testing",
+              "developer-tools",
+              "graphql-client",
+              "hacktoberfest",
+              "http",
+              "http-client",
+              "pwa",
+              "rest-api",
+              "rest-client",
+              "testing-tools",
+              "vue",
+              "websocket"
+            ]
           },
           "title": "Restfox (repo)",
           "first_seen": "2026-08-28T07:06:35.139Z"
@@ -25,12 +44,36 @@
           "node_type": "item",
           "repo_info": {
             "archived": false,
+            "description": "Open-Source API Development Ecosystem • https://hoppscotch.io • Offline, On-Prem & Cloud • Web, Desktop & CLI • Open-Source Alternative to Postman, Insomnia",
+            "homepage": "https://hoppscotch.io",
             "id": 203587744,
             "language": "TypeScript",
-            "last_commit": "2026-08-27T18:30:52Z",
+            "license": "MIT",
+            "last_commit": "2026-08-28T14:30:09Z",
+            "open_issues": 804,
             "owner": "hoppscotch",
             "repo": "hoppscotch",
-            "stars": 80107
+            "stars": 80113,
+            "topics": [
+              "api",
+              "api-client",
+              "api-rest",
+              "api-testing",
+              "developer-tools",
+              "graphql",
+              "http",
+              "http-client",
+              "pwa",
+              "rest",
+              "rest-api",
+              "spa",
+              "testing",
+              "testing-tools",
+              "tools",
+              "vue",
+              "vuejs",
+              "websocket"
+            ]
           },
           "title": "Hoppscotch (repo)",
           "first_seen": "2026-08-28T07:06:35.139Z"
@@ -41,12 +84,29 @@
           "node_type": "item",
           "repo_info": {
             "archived": false,
+            "description": "Developer-first OpenSource API DevTool, Postman/Insomnia alternative.",
+            "homepage": "https://firecamp.dev",
             "id": 641935358,
             "language": "TypeScript",
+            "license": "AGPL-3.0",
             "last_commit": "2026-03-04T06:06:17Z",
+            "open_issues": 105,
             "owner": "firecamp-dev",
             "repo": "firecamp",
-            "stars": 2608
+            "stars": 2608,
+            "topics": [
+              "api",
+              "api-client",
+              "graphql",
+              "graphql-playground",
+              "hacktoberfest",
+              "hacktoberfest2023",
+              "open-source",
+              "socket-io",
+              "socket-io-playground",
+              "websocket",
+              "websocket-playground"
+            ]
           },
           "title": "Firecamp (repo)",
           "first_seen": "2026-08-28T07:06:35.139Z"
@@ -57,12 +117,21 @@
           "node_type": "item",
           "repo_info": {
             "archived": false,
+            "description": "An interactive web UI for gRPC, along the lines of postman",
+            "homepage": null,
             "id": 160253491,
             "language": "JavaScript",
-            "last_commit": "2026-08-17T19:23:09Z",
+            "license": "MIT",
+            "last_commit": "2026-08-28T18:33:22Z",
+            "open_issues": 77,
             "owner": "fullstorydev",
             "repo": "grpcui",
-            "stars": 5922
+            "stars": 5922,
+            "topics": [
+              "golang",
+              "grpc",
+              "postman"
+            ]
           },
           "title": "gRPC UI",
           "first_seen": "2026-08-28T07:06:35.139Z"
@@ -73,12 +142,26 @@
           "node_type": "item",
           "repo_info": {
             "archived": false,
+            "description": "Yaade is an open-source, self-hosted, collaborative API development environment.",
+            "homepage": null,
             "id": 471369341,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2025-09-08T11:57:37Z",
+            "open_issues": 58,
             "owner": "EsperoTech",
             "repo": "yaade",
-            "stars": 1987
+            "stars": 1987,
+            "topics": [
+              "api",
+              "docker",
+              "h2-database",
+              "hoppscotch",
+              "kotlin",
+              "postman",
+              "selfhosted",
+              "typescript"
+            ]
           },
           "title": "Yaade (repo)",
           "first_seen": "2026-08-28T07:06:35.139Z"
@@ -89,12 +172,36 @@
           "node_type": "item",
           "repo_info": {
             "archived": false,
+            "description": "A text-based HTTP client in the browser. An interface-less Postman.",
+            "homepage": "https://prestige.sharats.me",
             "id": 275596885,
             "language": "TypeScript",
+            "license": "Apache-2.0",
             "last_commit": "2022-11-03T23:36:21Z",
+            "open_issues": 1,
             "owner": "sharat87",
             "repo": "prestige",
-            "stars": 402
+            "stars": 402,
+            "topics": [
+              "api",
+              "api-client",
+              "api-development",
+              "api-rest",
+              "api-testing",
+              "curl-utility",
+              "developer-tools",
+              "http-client",
+              "no-login-web-apps",
+              "postman-alternative",
+              "rest",
+              "rest-api",
+              "rest-client",
+              "self-hosted",
+              "spa",
+              "testing",
+              "testing-tools",
+              "tools"
+            ]
           },
           "title": "Prestige (repo)",
           "first_seen": "2026-08-28T07:06:35.139Z"
@@ -105,12 +212,29 @@
           "node_type": "item",
           "repo_info": {
             "archived": false,
+            "description": "Community hub for Requestly API Client — bugs, feature requests, and roadmap. The privacy-first Postman alternative.",
+            "homepage": "https://requestly.com/",
             "id": 75255555,
             "language": null,
-            "last_commit": "2026-08-27T10:30:13Z",
+            "license": "NOASSERTION",
+            "last_commit": "2026-08-28T10:30:12Z",
+            "open_issues": 273,
             "owner": "requestly",
             "repo": "requestly",
-            "stars": 6751
+            "stars": 6752,
+            "topics": [
+              "api-client",
+              "api-testing",
+              "developer-tools",
+              "git-sync",
+              "graphql",
+              "grpc",
+              "open-source",
+              "postman-alternative",
+              "privacy-first",
+              "rest-api",
+              "websocket"
+            ]
           },
           "title": "Requestly (repo)",
           "first_seen": "2026-08-28T07:06:35.139Z"
@@ -121,12 +245,33 @@
           "node_type": "item",
           "repo_info": {
             "archived": false,
+            "description": "Swagger UI is a collection of HTML, JavaScript, and CSS assets that dynamically generate beautiful documentation from a Swagger-compliant API.",
+            "homepage": "https://swagger.io",
             "id": 2055965,
             "language": "JavaScript",
-            "last_commit": "2026-08-27T23:02:51Z",
+            "license": "Apache-2.0",
+            "last_commit": "2026-08-28T09:47:20Z",
+            "open_issues": 1141,
             "owner": "swagger-api",
             "repo": "swagger-ui",
-            "stars": 28994
+            "stars": 28994,
+            "topics": [
+              "hacktoberfest",
+              "oas",
+              "open-source",
+              "openapi",
+              "openapi-specification",
+              "openapi3",
+              "openapi31",
+              "openapi32",
+              "rest",
+              "rest-api",
+              "swagger",
+              "swagger-api",
+              "swagger-client",
+              "swagger-oss",
+              "swagger-ui"
+            ]
           },
           "title": "Swagger UI (repo)",
           "first_seen": "2026-08-28T07:06:35.139Z"
@@ -143,12 +288,32 @@
           "node_type": "item",
           "repo_info": {
             "archived": false,
+            "description": "Opensource IDE For Exploring and Testing API's (lightweight alternative to Postman/Insomnia)",
+            "homepage": "https://www.usebruno.com/",
             "id": 542284380,
             "language": "JavaScript",
-            "last_commit": "2026-08-28T03:04:29Z",
+            "license": "MIT",
+            "last_commit": "2026-08-28T18:33:13Z",
+            "open_issues": 1824,
             "owner": "usebruno",
             "repo": "bruno",
-            "stars": 46595
+            "stars": 46623,
+            "topics": [
+              "api-client",
+              "api-testing",
+              "automation",
+              "developer-tools",
+              "git",
+              "graphql-client",
+              "http-client",
+              "javascript",
+              "openapi",
+              "openapi3",
+              "opensource",
+              "rest-api",
+              "testing",
+              "testing-tools"
+            ]
           },
           "title": "Bruno (repo)",
           "first_seen": "2026-08-28T07:06:35.139Z"
@@ -159,12 +324,28 @@
           "node_type": "item",
           "repo_info": {
             "archived": false,
+            "description": "The most intuitive desktop API client. Organize and execute REST, GraphQL, WebSockets, Server Sent Events, and gRPC 🦬",
+            "homepage": "https://yaak.app",
             "id": 602379707,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2026-08-27T22:28:12Z",
+            "open_issues": 6,
             "owner": "mountain-loop",
             "repo": "yaak",
-            "stars": 19120
+            "stars": 19125,
+            "topics": [
+              "bruno-alternative",
+              "graphql",
+              "grpc",
+              "http",
+              "http-client",
+              "insomnia-alternative",
+              "postman-alternative",
+              "sse",
+              "tauri",
+              "websocket"
+            ]
           },
           "title": "Yaak (repo)",
           "first_seen": "2026-08-28T07:06:35.139Z"
@@ -175,12 +356,37 @@
           "node_type": "item",
           "repo_info": {
             "archived": false,
+            "description": "API Dash is a beautiful AI-powered open-source cross-platform (Desktop & Mobile) API Client built using Flutter which can help you easily create & customize your HTTP & GraphQL API requests, visually inspect responses and generate API integration code. A lightweight alternative to postman/insomnia.",
+            "homepage": "https://apidash.dev",
             "id": 609413440,
             "language": "Dart",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-24T15:00:49Z",
+            "open_issues": 256,
             "owner": "foss42",
             "repo": "apidash",
-            "stars": 2885
+            "stars": 2885,
+            "topics": [
+              "api",
+              "api-client",
+              "api-testing",
+              "dart",
+              "developer-tools",
+              "flutter",
+              "flutter-apps",
+              "flutter-desktop",
+              "graphql",
+              "graphql-api",
+              "graphql-client",
+              "gssoc",
+              "hacktoberfest",
+              "http-client",
+              "http-requests",
+              "postman",
+              "rest-api",
+              "server-sent-events",
+              "websocket"
+            ]
           },
           "title": "API Dash",
           "first_seen": "2026-08-28T07:06:35.139Z"
@@ -191,12 +397,27 @@
           "node_type": "item",
           "repo_info": {
             "archived": false,
+            "description": "🔥 GUI client for gRPC/gRPC-Web",
+            "homepage": "https://getezy.dev",
             "id": 486252545,
             "language": "TypeScript",
+            "license": "MPL-2.0",
             "last_commit": "2024-05-26T11:37:45Z",
+            "open_issues": 22,
             "owner": "getezy",
             "repo": "ezy",
-            "stars": 1039
+            "stars": 1040,
+            "topics": [
+              "api",
+              "api-testing",
+              "developer-tools",
+              "grpc",
+              "grpc-client",
+              "grpc-gui",
+              "grpc-web",
+              "testing",
+              "testing-tools"
+            ]
           },
           "title": "ezy (repo)",
           "first_seen": "2026-08-28T07:06:35.139Z"
@@ -207,12 +428,19 @@
           "node_type": "item",
           "repo_info": {
             "archived": true,
+            "description": "Former GUI client for gRPC services. No longer maintained.",
+            "homepage": null,
             "id": 161648540,
             "language": "TypeScript",
+            "license": "LGPL-3.0",
             "last_commit": "2023-01-04T07:51:04Z",
+            "open_issues": 0,
             "owner": "bloomrpc",
             "repo": "bloomrpc",
-            "stars": 8983
+            "stars": 8983,
+            "topics": [
+              "grpc"
+            ]
           },
           "title": "BloomRPC",
           "first_seen": "2026-08-28T07:06:35.139Z"
@@ -223,12 +451,24 @@
           "node_type": "item",
           "repo_info": {
             "archived": false,
+            "description": "An Extensible Request/Response Workbench",
+            "homepage": "https://milkman.dev",
             "id": 178002723,
             "language": "Java",
+            "license": "MIT",
             "last_commit": "2026-08-04T12:53:04Z",
+            "open_issues": 16,
             "owner": "warmuuh",
             "repo": "milkman",
-            "stars": 1339
+            "stars": 1339,
+            "topics": [
+              "grpc",
+              "hacktoberfest",
+              "http",
+              "milkman-plugins",
+              "rest",
+              "testing"
+            ]
           },
           "title": "Milkman",
           "first_seen": "2026-08-28T07:06:35.139Z"
@@ -239,12 +479,34 @@
           "node_type": "item",
           "repo_info": {
             "archived": false,
+            "description": "An API testing tool with support for HTTP/2 and HTTP/3. Alternative to Postman.",
+            "homepage": "https://pororoca.io",
             "id": 467317097,
             "language": "C#",
-            "last_commit": "2026-06-03T17:38:47Z",
+            "license": "NOASSERTION",
+            "last_commit": "2026-08-28T15:58:13Z",
+            "open_issues": 33,
             "owner": "alexandrehtrb",
             "repo": "Pororoca",
-            "stars": 665
+            "stars": 665,
+            "topics": [
+              "api",
+              "api-test",
+              "api-testing",
+              "avalonia",
+              "client-certificate",
+              "developer-tools",
+              "graphql",
+              "hipaa",
+              "http",
+              "http2",
+              "http3",
+              "load-testing",
+              "postman",
+              "testing-tools",
+              "tools",
+              "websockets"
+            ]
           },
           "title": "Pororoca (repo)",
           "first_seen": "2026-08-28T07:06:35.139Z"
@@ -255,12 +517,27 @@
           "node_type": "item",
           "repo_info": {
             "archived": false,
+            "description": "A modern, resource-efficient REST API client for Windows",
+            "homepage": "https://nightingale.rest",
             "id": 178427324,
             "language": "C#",
+            "license": "MIT",
             "last_commit": "2026-07-02T06:28:23Z",
+            "open_issues": 149,
             "owner": "jenius-apps",
             "repo": "nightingale-rest-api-client",
-            "stars": 835
+            "stars": 835,
+            "topics": [
+              "csharp",
+              "dotnet",
+              "nightingale-rest-client",
+              "restapi",
+              "uwp",
+              "windows10",
+              "windows11",
+              "winui",
+              "xaml"
+            ]
           },
           "title": "Nightingale REST Client (repo)",
           "first_seen": "2026-08-28T07:06:35.139Z"
@@ -271,12 +548,29 @@
           "node_type": "item",
           "repo_info": {
             "archived": false,
+            "description": "Community hub for Requestly API Client — bugs, feature requests, and roadmap. The privacy-first Postman alternative.",
+            "homepage": "https://requestly.com/",
             "id": 75255555,
             "language": null,
-            "last_commit": "2026-08-27T10:30:13Z",
+            "license": "NOASSERTION",
+            "last_commit": "2026-08-28T10:30:12Z",
+            "open_issues": 273,
             "owner": "requestly",
             "repo": "requestly",
-            "stars": 6751
+            "stars": 6752,
+            "topics": [
+              "api-client",
+              "api-testing",
+              "developer-tools",
+              "git-sync",
+              "graphql",
+              "grpc",
+              "open-source",
+              "postman-alternative",
+              "privacy-first",
+              "rest-api",
+              "websocket"
+            ]
           },
           "title": "Requestly (repo)",
           "first_seen": "2026-08-28T07:06:35.139Z"
@@ -287,12 +581,26 @@
           "node_type": "item",
           "repo_info": {
             "archived": false,
+            "description": "The free, lightweight and multiplatform graphical HTTP client that respects your privacy.",
+            "homepage": "https://cartero.danirod.es",
             "id": 776190936,
             "language": "Rust",
+            "license": "GPL-3.0",
             "last_commit": "2026-06-08T17:44:56Z",
+            "open_issues": 33,
             "owner": "danirod",
             "repo": "cartero",
-            "stars": 1038
+            "stars": 1039,
+            "topics": [
+              "adwaita",
+              "curl",
+              "gnome",
+              "gtk-rs",
+              "gtk4",
+              "http-client",
+              "libadwaita",
+              "rust"
+            ]
           },
           "title": "Cartero (repo)",
           "first_seen": "2026-08-28T07:06:35.139Z"
@@ -309,12 +617,28 @@
           "node_type": "item",
           "repo_info": {
             "archived": false,
+            "description": "REST Client Extension for Visual Studio Code",
+            "homepage": "https://marketplace.visualstudio.com/items?itemName=humao.rest-client",
             "id": 55044933,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2026-04-23T03:14:02Z",
+            "open_issues": 591,
             "owner": "Huachao",
             "repo": "vscode-restclient",
-            "stars": 6044
+            "stars": 6045,
+            "topics": [
+              "graphql",
+              "http",
+              "http-client",
+              "rest",
+              "rest-api",
+              "rest-client",
+              "typescript",
+              "visual-studio-code",
+              "vscode",
+              "vscode-extension"
+            ]
           },
           "title": "VS Code REST Client (repo)",
           "first_seen": "2026-08-28T07:06:35.139Z"
@@ -325,12 +649,17 @@
           "node_type": "item",
           "repo_info": {
             "archived": true,
+            "description": "HTTP REST client tool for emacs",
+            "homepage": null,
             "id": 3693861,
             "language": "Emacs Lisp",
+            "license": null,
             "last_commit": "2024-03-10T11:02:55Z",
+            "open_issues": 104,
             "owner": "pashky",
             "repo": "restclient.el",
-            "stars": 2014
+            "stars": 2014,
+            "topics": []
           },
           "title": "restclient.el",
           "first_seen": "2026-08-28T07:06:35.139Z"
@@ -341,12 +670,28 @@
           "node_type": "item",
           "repo_info": {
             "archived": false,
+            "description": "HTTP client for Emacs",
+            "homepage": "https://melpa.org/#/verb",
             "id": 226766506,
             "language": "Emacs Lisp",
+            "license": "GPL-3.0",
             "last_commit": "2026-08-18T19:22:11Z",
+            "open_issues": 1,
             "owner": "federicotdn",
             "repo": "verb",
-            "stars": 764
+            "stars": 765,
+            "topics": [
+              "api",
+              "babel",
+              "client",
+              "emacs",
+              "emacs-lisp",
+              "http",
+              "org",
+              "org-mode",
+              "rest",
+              "url"
+            ]
           },
           "title": "verb",
           "first_seen": "2026-08-28T07:06:35.139Z"
@@ -357,12 +702,25 @@
           "node_type": "item",
           "repo_info": {
             "archived": false,
+            "description": "A very fast, powerful, extensible and asynchronous Neovim HTTP client written in Lua.",
+            "homepage": null,
             "id": 364726060,
             "language": "Lua",
+            "license": "GPL-3.0",
             "last_commit": "2025-12-27T19:28:17Z",
+            "open_issues": 46,
             "owner": "rest-nvim",
             "repo": "rest.nvim",
-            "stars": 2051
+            "stars": 2053,
+            "topics": [
+              "curl",
+              "http-client",
+              "lua",
+              "neovim",
+              "neovim-plugin",
+              "nvim",
+              "rest-client"
+            ]
           },
           "title": "rest.nvim",
           "first_seen": "2026-08-28T07:06:35.139Z"
@@ -373,12 +731,38 @@
           "node_type": "item",
           "repo_info": {
             "archived": false,
+            "description": "A fully-featured ⚡️ HTTP/GraphQL/gRPC/Websocket-client 🐼 interface 🖥️ for Neovim ❤️, that supports the Jetbrains .http spec (with full scripting support).",
+            "homepage": "https://kulala.app",
             "id": 819582362,
             "language": "Lua",
+            "license": "MIT",
             "last_commit": "2026-08-18T18:30:58Z",
+            "open_issues": 5,
             "owner": "mistweaverco",
             "repo": "kulala.nvim",
-            "stars": 2152
+            "stars": 2154,
+            "topics": [
+              "cli",
+              "curl",
+              "gh-action",
+              "graphql",
+              "graphql-client",
+              "grpc",
+              "grpc-client",
+              "http-client",
+              "jetbrains-http-client",
+              "lua",
+              "neovim",
+              "neovim-plugin",
+              "nvim",
+              "nvim-plugin",
+              "oauth",
+              "oauth2",
+              "plugin",
+              "rest",
+              "rest-client",
+              "websocket-client"
+            ]
           },
           "title": "kulala.nvim",
           "first_seen": "2026-08-28T07:06:35.139Z"
@@ -395,12 +779,38 @@
           "node_type": "item",
           "repo_info": {
             "archived": false,
+            "description": "A command line tool and library for transferring data with URL syntax, supporting DICT, FILE, FTP, FTPS, GOPHER, GOPHERS, HTTP, HTTPS, IMAP, IMAPS, LDAP, LDAPS, MQTT, MQTTS, POP3, POP3S, RTSP, SCP, SFTP, SMB, SMBS, SMTP, SMTPS, TELNET, TFTP, WS and WSS. libcurl offers a myriad of powerful features",
+            "homepage": "https://curl.se/",
             "id": 569041,
             "language": "C",
-            "last_commit": "2026-08-27T22:19:00Z",
+            "license": "NOASSERTION",
+            "last_commit": "2026-08-28T22:06:06Z",
+            "open_issues": 41,
             "owner": "curl",
             "repo": "curl",
-            "stars": 42703
+            "stars": 42707,
+            "topics": [
+              "c",
+              "client",
+              "curl",
+              "ftp",
+              "gopher",
+              "hacktoberfest",
+              "http",
+              "https",
+              "imaps",
+              "ldap",
+              "libcurl",
+              "library",
+              "mqtt",
+              "pop3",
+              "scp",
+              "sftp",
+              "transfer-data",
+              "transferring-data",
+              "user-agent",
+              "websocket"
+            ]
           },
           "title": "curl (repo)",
           "first_seen": "2026-08-28T07:06:35.139Z"
@@ -411,12 +821,38 @@
           "node_type": "item",
           "repo_info": {
             "archived": false,
+            "description": "🥧 HTTPie CLI  — modern, user-friendly command-line HTTP client for the API era. JSON support, colors, sessions, downloads, plugins & more.",
+            "homepage": "https://httpie.io",
             "id": 3544424,
             "language": "Python",
+            "license": "BSD-3-Clause",
             "last_commit": "2024-12-17T17:30:35Z",
+            "open_issues": 335,
             "owner": "httpie",
             "repo": "cli",
-            "stars": 38465
+            "stars": 38465,
+            "topics": [
+              "api",
+              "api-client",
+              "api-testing",
+              "cli",
+              "client",
+              "curl",
+              "debugging",
+              "developer-tools",
+              "development",
+              "devops",
+              "http",
+              "http-client",
+              "httpie",
+              "json",
+              "python",
+              "rest",
+              "rest-api",
+              "terminal",
+              "usability",
+              "web"
+            ]
           },
           "title": "HTTPie (repo)",
           "first_seen": "2026-08-28T07:06:35.139Z"
@@ -427,12 +863,21 @@
           "node_type": "item",
           "repo_info": {
             "archived": false,
+            "description": "Like cURL, but for gRPC: Command-line tool for interacting with gRPC servers",
+            "homepage": "https://www.fullstory.com/resources/content/fullstory-engineering-blog/",
             "id": 111431261,
             "language": "Go",
-            "last_commit": "2026-08-17T12:35:49Z",
+            "license": "MIT",
+            "last_commit": "2026-08-28T18:23:04Z",
+            "open_issues": 121,
             "owner": "fullstorydev",
             "repo": "grpcurl",
-            "stars": 12790
+            "stars": 12790,
+            "topics": [
+              "golang",
+              "grpc",
+              "protobuf"
+            ]
           },
           "title": "grpcurl",
           "first_seen": "2026-08-28T07:06:35.139Z"
@@ -443,12 +888,24 @@
           "node_type": "item",
           "repo_info": {
             "archived": false,
+            "description": "Friendly and fast tool for sending HTTP requests",
+            "homepage": null,
             "id": 294521053,
             "language": "Rust",
+            "license": "MIT",
             "last_commit": "2026-08-23T11:18:23Z",
+            "open_issues": 38,
             "owner": "ducaale",
             "repo": "xh",
-            "stars": 8042
+            "stars": 8042,
+            "topics": [
+              "api-testing",
+              "cli",
+              "developer-tools",
+              "http-client",
+              "rust",
+              "terminal"
+            ]
           },
           "title": "xh",
           "first_seen": "2026-08-28T07:06:35.139Z"
@@ -459,12 +916,30 @@
           "node_type": "item",
           "repo_info": {
             "archived": false,
+            "description": "The modern API client that lives in your terminal.",
+            "homepage": null,
             "id": 806285077,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2026-03-25T23:30:48Z",
+            "open_issues": 83,
             "owner": "darrenburns",
             "repo": "posting",
-            "stars": 12324
+            "stars": 12330,
+            "topics": [
+              "automation",
+              "cli",
+              "developer-tools",
+              "http",
+              "python",
+              "rest",
+              "rest-api",
+              "rest-client",
+              "ssh",
+              "terminal",
+              "textual",
+              "tui"
+            ]
           },
           "title": "posting",
           "first_seen": "2026-08-28T07:06:35.139Z"
@@ -475,12 +950,27 @@
           "node_type": "item",
           "repo_info": {
             "archived": false,
+            "description": "The power of curl, the ease of use of httpie.",
+            "homepage": "https://rs.github.io/curlie",
             "id": 134918912,
             "language": "Go",
+            "license": "MIT",
             "last_commit": "2025-12-07T20:14:24Z",
+            "open_issues": 25,
             "owner": "rs",
             "repo": "curlie",
-            "stars": 3714
+            "stars": 3714,
+            "topics": [
+              "api-client",
+              "cli",
+              "curl",
+              "developer-tools",
+              "go",
+              "http-client",
+              "httpie",
+              "terminal",
+              "webdevelopment"
+            ]
           },
           "title": "curlie",
           "first_seen": "2026-08-28T07:06:35.139Z"
@@ -491,12 +981,17 @@
           "node_type": "item",
           "repo_info": {
             "archived": true,
+            "description": "The HTTP Read-Eval-Print Loop (REPL) is a lightweight, cross-platform command-line tool that's supported everywhere .NET Core is supported and is used for making HTTP requests to test ASP.NET Core web APIs and view their results.",
+            "homepage": null,
             "id": 191466073,
             "language": "C#",
+            "license": "MIT",
             "last_commit": "2026-01-21T18:04:50Z",
+            "open_issues": 4,
             "owner": "dotnet",
             "repo": "HttpRepl",
-            "stars": 711
+            "stars": 711,
+            "topics": []
           },
           "title": "HttpRepl",
           "first_seen": "2026-08-28T07:06:35.139Z"
@@ -507,12 +1002,29 @@
           "node_type": "item",
           "repo_info": {
             "archived": false,
+            "description": "A HTTP API client for the terminal",
+            "homepage": null,
             "id": 308876594,
             "language": "Go",
+            "license": "MIT",
             "last_commit": "2025-10-17T14:30:50Z",
+            "open_issues": 1,
             "owner": "jonaslu",
             "repo": "ain",
-            "stars": 621
+            "stars": 621,
+            "topics": [
+              "api",
+              "api-client",
+              "api-rest",
+              "curl",
+              "go",
+              "http",
+              "httpie",
+              "insomnia",
+              "paw",
+              "postman",
+              "terminal"
+            ]
           },
           "title": "ain",
           "first_seen": "2026-08-28T07:06:35.139Z"
@@ -523,12 +1035,26 @@
           "node_type": "item",
           "repo_info": {
             "archived": false,
+            "description": "Evans: more expressive universal gRPC client",
+            "homepage": null,
             "id": 97361468,
             "language": "Go",
+            "license": "MIT",
             "last_commit": "2023-12-26T08:27:59Z",
+            "open_issues": 38,
             "owner": "ktr0731",
             "repo": "evans",
-            "stars": 4492
+            "stars": 4493,
+            "topics": [
+              "cli",
+              "completion",
+              "golang",
+              "grpc",
+              "grpc-client",
+              "protocol-buffers",
+              "repl-mode",
+              "rpc"
+            ]
           },
           "title": "evans",
           "first_seen": "2026-08-28T07:06:35.139Z"
@@ -539,12 +1065,27 @@
           "node_type": "item",
           "repo_info": {
             "archived": false,
+            "description": "Command Line Interface for *.http and *.rest files. Connect with http, gRPC, WebSocket and MQTT ",
+            "homepage": "https://httpyac.github.io/",
             "id": 327336757,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2026-03-04T19:23:18Z",
+            "open_issues": 79,
             "owner": "AnWeber",
             "repo": "httpyac",
-            "stars": 868
+            "stars": 868,
+            "topics": [
+              "graphql",
+              "grpc",
+              "http",
+              "intellij",
+              "mqtt",
+              "postman",
+              "rest",
+              "rest-client",
+              "websocket"
+            ]
           },
           "title": "httpYac (repo)",
           "first_seen": "2026-08-28T07:06:35.139Z"
@@ -555,12 +1096,25 @@
           "node_type": "item",
           "repo_info": {
             "archived": false,
+            "description": "A simple API client (postman like) in your terminal",
+            "homepage": "https://atac.julien-cpsn.com/",
             "id": 753274513,
             "language": "Rust",
+            "license": "MIT",
             "last_commit": "2026-08-23T04:03:25Z",
+            "open_issues": 20,
             "owner": "Julien-cpsn",
             "repo": "ATAC",
-            "stars": 3705
+            "stars": 3705,
+            "topics": [
+              "api",
+              "api-client",
+              "insomnia",
+              "postman",
+              "ratatui",
+              "rust",
+              "tui"
+            ]
           },
           "title": "ATAC (repo)",
           "first_seen": "2026-08-28T07:06:35.139Z"
@@ -577,12 +1131,38 @@
           "node_type": "item",
           "repo_info": {
             "archived": false,
+            "description": "Automated API Testing and Quality Assurance",
+            "homepage": "https://stepci.com",
             "id": 537500924,
             "language": "TypeScript",
+            "license": "MPL-2.0",
             "last_commit": "2024-08-03T09:44:52Z",
+            "open_issues": 73,
             "owner": "stepci",
             "repo": "stepci",
-            "stars": 1868
+            "stars": 1868,
+            "topics": [
+              "actions",
+              "api-client",
+              "api-rest",
+              "api-testing",
+              "api-testing-framework",
+              "automated-testing",
+              "ci",
+              "continuous-integration",
+              "github-actions",
+              "graphql",
+              "grpc",
+              "grpc-client",
+              "integration-testing",
+              "load-testing",
+              "qa",
+              "soap",
+              "swagger",
+              "test-automation",
+              "testing-tools",
+              "trpc"
+            ]
           },
           "title": "Step CI (repo)",
           "first_seen": "2026-08-28T07:06:35.139Z"
@@ -593,12 +1173,26 @@
           "node_type": "item",
           "repo_info": {
             "archived": false,
+            "description": "Hurl, run and test HTTP requests with plain text.",
+            "homepage": "https://hurl.dev",
             "id": 290243101,
             "language": "Rust",
-            "last_commit": "2026-08-28T06:31:19Z",
+            "license": "Apache-2.0",
+            "last_commit": "2026-08-28T21:48:13Z",
+            "open_issues": 203,
             "owner": "Orange-OpenSource",
             "repo": "hurl",
-            "stars": 19162
+            "stars": 19163,
+            "topics": [
+              "api-testing",
+              "cli",
+              "curl",
+              "http",
+              "http-client",
+              "integration-testing",
+              "testing",
+              "testing-tools"
+            ]
           },
           "title": "Hurl (repo)",
           "first_seen": "2026-08-28T07:06:35.139Z"
@@ -609,12 +1203,34 @@
           "node_type": "item",
           "repo_info": {
             "archived": false,
+            "description": "Test Automation Made Simple",
+            "homepage": "https://docs.karatelabs.io",
             "id": 81226206,
             "language": "Java",
-            "last_commit": "2026-08-26T13:28:14Z",
+            "license": "MIT",
+            "last_commit": "2026-08-28T15:46:31Z",
+            "open_issues": 9,
             "owner": "karatelabs",
             "repo": "karate",
-            "stars": 8931
+            "stars": 8931,
+            "topics": [
+              "api-testing",
+              "assertions",
+              "automated-testing",
+              "automation",
+              "bdd",
+              "contract-testing",
+              "cucumber",
+              "developer-tools",
+              "load-testing",
+              "microservices",
+              "mock-server",
+              "test-automation",
+              "testing",
+              "testing-framework",
+              "testing-tools",
+              "webdriver"
+            ]
           },
           "title": "Karate (repo)",
           "first_seen": "2026-08-28T07:06:35.139Z"
@@ -625,12 +1241,26 @@
           "node_type": "item",
           "repo_info": {
             "archived": false,
+            "description": "A command-line tool and Python library and Pytest plugin for automated testing of RESTful APIs, with a simple, concise and flexible YAML-based syntax",
+            "homepage": "https://taverntesting.github.io/",
             "id": 109144395,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2026-08-28T05:03:22Z",
+            "open_issues": 25,
             "owner": "taverntesting",
             "repo": "tavern",
-            "stars": 1153
+            "stars": 1153,
+            "topics": [
+              "grpc",
+              "grpc-python",
+              "http",
+              "mqtt",
+              "pytest",
+              "python",
+              "test-automation",
+              "testing"
+            ]
           },
           "title": "Tavern (repo)",
           "first_seen": "2026-08-28T07:06:35.139Z"
@@ -641,12 +1271,28 @@
           "node_type": "item",
           "repo_info": {
             "archived": false,
+            "description": "🐍 Manage and run your integration tests with efficiency - Venom run executors (script, HTTP Request, web, imap, etc... ) and assertions",
+            "homepage": null,
             "id": 82285879,
             "language": "Go",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-27T16:36:37Z",
+            "open_issues": 38,
             "owner": "ovh",
             "repo": "venom",
-            "stars": 1217
+            "stars": 1217,
+            "topics": [
+              "cli",
+              "cli-app",
+              "command",
+              "command-line",
+              "golang-application",
+              "hacktoberfest",
+              "integration-testing",
+              "test",
+              "testing",
+              "xunit"
+            ]
           },
           "title": "Venom",
           "first_seen": "2026-08-28T07:06:35.139Z"
@@ -657,12 +1303,17 @@
           "node_type": "item",
           "repo_info": {
             "archived": false,
+            "description": "Python Rest Testing",
+            "homepage": null,
             "id": 19361014,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2021-06-10T17:22:57Z",
+            "open_issues": 132,
             "owner": "svanoort",
             "repo": "pyresttest",
-            "stars": 1165
+            "stars": 1165,
+            "topics": []
           },
           "title": "pyresttest",
           "first_seen": "2026-08-28T07:06:35.139Z"
@@ -673,12 +1324,33 @@
           "node_type": "item",
           "repo_info": {
             "archived": false,
+            "description": "runn is a package/tool for running operations following a scenario.",
+            "homepage": "https://runn.run",
             "id": 466909944,
             "language": "Go",
-            "last_commit": "2026-08-20T04:15:46Z",
+            "license": "MIT",
+            "last_commit": "2026-08-28T23:03:39Z",
+            "open_issues": 28,
             "owner": "k1LoW",
             "repo": "runn",
-            "stars": 648
+            "stars": 648,
+            "topics": [
+              "api-testing",
+              "automation",
+              "buf",
+              "buf-schema-registry",
+              "chrome-devtools-protocol",
+              "db-client",
+              "golang",
+              "grpc-client",
+              "hacktoberfest",
+              "http-client",
+              "load-testing",
+              "scenario-testing",
+              "ssh-client",
+              "test-helper",
+              "testing"
+            ]
           },
           "title": "runn",
           "first_seen": "2026-08-28T07:06:35.139Z"
@@ -689,12 +1361,17 @@
           "node_type": "item",
           "repo_info": {
             "archived": true,
+            "description": "This repository has been transferred to https://github.com/scenarigo/scenarigo .",
+            "homepage": "https://github.com/scenarigo/scenarigo",
             "id": 931860249,
             "language": "Go",
+            "license": "Apache-2.0",
             "last_commit": "2025-02-13T01:21:58Z",
+            "open_issues": 0,
             "owner": "zoncoen",
             "repo": "scenarigo",
-            "stars": 1
+            "stars": 1,
+            "topics": []
           },
           "title": "scenarigo",
           "first_seen": "2026-08-28T07:06:35.139Z"
@@ -705,12 +1382,29 @@
           "node_type": "item",
           "repo_info": {
             "archived": false,
+            "description": "Catch API bugs before your users do",
+            "homepage": "https://schemathesis.readthedocs.io",
             "id": 203157084,
             "language": "Python",
-            "last_commit": "2026-08-28T06:54:36Z",
+            "license": "MIT",
+            "last_commit": "2026-08-28T20:20:07Z",
+            "open_issues": 8,
             "owner": "schemathesis",
             "repo": "schemathesis",
-            "stars": 3564
+            "stars": 3565,
+            "topics": [
+              "api",
+              "api-testing",
+              "cli",
+              "fuzzing",
+              "graphql",
+              "hypothesis",
+              "openapi",
+              "property-based-testing",
+              "pytest",
+              "swagger",
+              "testing"
+            ]
           },
           "title": "Schemathesis (repo)",
           "first_seen": "2026-08-28T07:06:35.139Z"
@@ -721,12 +1415,37 @@
           "node_type": "item",
           "repo_info": {
             "archived": true,
+            "description": "Language-agnostic HTTP API Testing Tool",
+            "homepage": "https://dredd.org",
             "id": 12590052,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2024-05-11T13:19:25Z",
+            "open_issues": 260,
             "owner": "apiaryio",
             "repo": "dredd",
-            "stars": 4222
+            "stars": 4222,
+            "topics": [
+              "api",
+              "api-blueprint",
+              "cli-app",
+              "dredd",
+              "http",
+              "integration-testing",
+              "openapi",
+              "openapi-validation",
+              "openapi2",
+              "openapi3",
+              "sjs-team",
+              "swagger",
+              "test-framework",
+              "test-runner",
+              "testing",
+              "testing-framework",
+              "tests",
+              "unit-testing",
+              "validation"
+            ]
           },
           "title": "Dredd",
           "first_seen": "2026-08-28T07:06:35.139Z"
@@ -737,12 +1456,17 @@
           "node_type": "item",
           "repo_info": {
             "archived": false,
+            "description": "REST API automated testing tool based on RAML",
+            "homepage": null,
             "id": 24688601,
             "language": "CoffeeScript",
+            "license": "MIT",
             "last_commit": "2024-11-20T12:37:27Z",
+            "open_issues": 38,
             "owner": "cybertk",
             "repo": "abao",
-            "stars": 352
+            "stars": 352,
+            "topics": []
           },
           "title": "abao",
           "first_seen": "2026-08-28T07:06:35.139Z"
@@ -753,12 +1477,28 @@
           "node_type": "item",
           "repo_info": {
             "archived": false,
+            "description": "HttpRunner 是一款开源的 API/UI 测试框架，简单易用，功能强大，具有丰富的插件化机制和高度的可扩展能力。",
+            "homepage": "https://httprunner.com",
             "id": 94166852,
             "language": "Go",
+            "license": "Apache-2.0",
             "last_commit": "2025-12-11T16:50:50Z",
+            "open_issues": 502,
             "owner": "httprunner",
             "repo": "httprunner",
-            "stars": 4295
+            "stars": 4296,
+            "topics": [
+              "adb",
+              "agent-tars",
+              "mcp-server",
+              "mcphost",
+              "testing",
+              "ui-tars",
+              "ui-testing",
+              "uiautomator2",
+              "wda",
+              "webdriveragent"
+            ]
           },
           "title": "HttpRunner (repo)",
           "first_seen": "2026-08-28T07:06:35.139Z"
@@ -769,12 +1509,27 @@
           "node_type": "item",
           "repo_info": {
             "archived": false,
+            "description": "A modern load testing tool, using Go and JavaScript",
+            "homepage": "https://grafana.com/oss/k6/",
             "id": 54400687,
             "language": "Go",
-            "last_commit": "2026-08-28T03:03:35Z",
+            "license": "AGPL-3.0",
+            "last_commit": "2026-08-29T04:01:11Z",
+            "open_issues": 799,
             "owner": "grafana",
             "repo": "k6",
-            "stars": 31341
+            "stars": 31349,
+            "topics": [
+              "es6",
+              "go",
+              "golang",
+              "hacktoberfest",
+              "javascript",
+              "k6",
+              "load-generator",
+              "load-testing",
+              "performance"
+            ]
           },
           "title": "k6 (repo)",
           "first_seen": "2026-08-28T07:06:35.139Z"
@@ -785,12 +1540,38 @@
           "node_type": "item",
           "repo_info": {
             "archived": false,
+            "description": "The complete load testing platform. Everything you need for production-grade load tests. Serverless & distributed. Load test with Playwright. Load test HTTP APIs, GraphQL, WebSocket, and more. Use any Node.js module.",
+            "homepage": "https://www.artillery.io",
             "id": 36437041,
             "language": "TypeScript",
+            "license": "MPL-2.0",
             "last_commit": "2026-08-26T14:24:46Z",
+            "open_issues": 485,
             "owner": "artilleryio",
             "repo": "artillery",
-            "stars": 9060
+            "stars": 9062,
+            "topics": [
+              "api",
+              "automation",
+              "aws",
+              "browser",
+              "fargate",
+              "grpc",
+              "javascript",
+              "lambda",
+              "load",
+              "load-testing",
+              "opentelemetry",
+              "otel",
+              "performance",
+              "playwright",
+              "serverless",
+              "socketio",
+              "stress",
+              "testing",
+              "typescript",
+              "websocket"
+            ]
           },
           "title": "Artillery (repo)",
           "first_seen": "2026-08-28T07:06:35.139Z"
@@ -800,15 +1581,31 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-28T07:06:35.139Z",
+    "last_updated": "2026-08-29T04:33:40.520Z",
     "original_repository_info": {
       "archived": false,
+      "description": "Awesome API Clients & Postman Alternatives (Open Source, Free, Pro)",
+      "homepage": null,
       "id": 956474815,
       "language": null,
+      "license": null,
       "last_commit": "2026-06-08T12:35:38Z",
+      "open_issues": 6,
       "owner": "furudo-erika",
       "repo": "awesome-postman-alternatives",
-      "stars": 615
+      "stars": 615,
+      "topics": [
+        "api-rest",
+        "api-restful",
+        "api-testing",
+        "awesome-list",
+        "awesome-resources",
+        "http-client",
+        "insomnia",
+        "postman",
+        "postman-alternative",
+        "postman-collection"
+      ]
     },
     "original_repository_sha": "ac03df367b5cb7c25929cb026cddbb0d3f346343",
     "enhanced_repository": "enhansome/enhansome-postman-alternatives",
