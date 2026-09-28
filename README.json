@@ -50,10 +50,10 @@
             "language": "TypeScript",
             "license": "MIT",
             "last_commit": "2026-09-26T17:45:31Z",
-            "open_issues": 835,
+            "open_issues": 837,
             "owner": "hoppscotch",
             "repo": "hoppscotch",
-            "stars": 80521,
+            "stars": 80526,
             "topics": [
               "api",
               "api-client",
@@ -221,7 +221,7 @@
             "open_issues": 272,
             "owner": "requestly",
             "repo": "requestly",
-            "stars": 6759,
+            "stars": 6760,
             "topics": [
               "api-client",
               "api-testing",
@@ -251,10 +251,10 @@
             "language": "JavaScript",
             "license": "Apache-2.0",
             "last_commit": "2026-09-25T23:05:08Z",
-            "open_issues": 1134,
+            "open_issues": 1135,
             "owner": "swagger-api",
             "repo": "swagger-ui",
-            "stars": 29025,
+            "stars": 29026,
             "topics": [
               "hacktoberfest",
               "oas",
@@ -294,10 +294,10 @@
             "language": "JavaScript",
             "license": "MIT",
             "last_commit": "2026-09-25T07:42:00Z",
-            "open_issues": 1846,
+            "open_issues": 1847,
             "owner": "usebruno",
             "repo": "bruno",
-            "stars": 47220,
+            "stars": 47229,
             "topics": [
               "api-client",
               "api-testing",
@@ -333,7 +333,7 @@
             "open_issues": 6,
             "owner": "mountain-loop",
             "repo": "yaak",
-            "stars": 19255,
+            "stars": 19256,
             "topics": [
               "bruno-alternative",
               "graphql",
@@ -362,10 +362,10 @@
             "language": "Dart",
             "license": "Apache-2.0",
             "last_commit": "2026-09-21T20:21:34Z",
-            "open_issues": 201,
+            "open_issues": 199,
             "owner": "foss42",
             "repo": "apidash",
-            "stars": 2913,
+            "stars": 2915,
             "topics": [
               "api",
               "api-client",
@@ -437,7 +437,7 @@
             "open_issues": 0,
             "owner": "bloomrpc",
             "repo": "bloomrpc",
-            "stars": 8979,
+            "stars": 8978,
             "topics": [
               "grpc"
             ]
@@ -557,7 +557,7 @@
             "open_issues": 272,
             "owner": "requestly",
             "repo": "requestly",
-            "stars": 6759,
+            "stars": 6760,
             "topics": [
               "api-client",
               "api-testing",
@@ -711,7 +711,7 @@
             "open_issues": 46,
             "owner": "rest-nvim",
             "repo": "rest.nvim",
-            "stars": 2054,
+            "stars": 2056,
             "topics": [
               "curl",
               "http-client",
@@ -742,11 +742,11 @@
             "id": 569041,
             "language": "C",
             "license": "NOASSERTION",
-            "last_commit": "2026-09-26T23:16:07Z",
+            "last_commit": "2026-09-27T19:45:22Z",
             "open_issues": 54,
             "owner": "curl",
             "repo": "curl",
-            "stars": 42942,
+            "stars": 42956,
             "topics": [
               "c",
               "client",
@@ -788,7 +788,7 @@
             "open_issues": 341,
             "owner": "httpie",
             "repo": "cli",
-            "stars": 38589,
+            "stars": 38591,
             "topics": [
               "api",
               "api-client",
@@ -830,7 +830,7 @@
             "open_issues": 118,
             "owner": "fullstorydev",
             "repo": "grpcurl",
-            "stars": 12832,
+            "stars": 12833,
             "topics": [
               "golang",
               "grpc",
@@ -883,7 +883,7 @@
             "open_issues": 76,
             "owner": "darrenburns",
             "repo": "posting",
-            "stars": 12456,
+            "stars": 12459,
             "topics": [
               "automation",
               "cli",
@@ -1032,7 +1032,7 @@
             "open_issues": 81,
             "owner": "AnWeber",
             "repo": "httpyac",
-            "stars": 879,
+            "stars": 880,
             "topics": [
               "graphql",
               "grpc",
@@ -1063,7 +1063,7 @@
             "open_issues": 22,
             "owner": "Julien-cpsn",
             "repo": "ATAC",
-            "stars": 3731,
+            "stars": 3732,
             "topics": [
               "api",
               "api-client",
@@ -1140,7 +1140,7 @@
             "open_issues": 197,
             "owner": "Orange-OpenSource",
             "repo": "hurl",
-            "stars": 19220,
+            "stars": 19222,
             "topics": [
               "api-testing",
               "cli",
@@ -1166,8 +1166,8 @@
             "id": 81226206,
             "language": "Java",
             "license": "MIT",
-            "last_commit": "2026-09-25T15:45:56Z",
-            "open_issues": 21,
+            "last_commit": "2026-09-27T05:27:29Z",
+            "open_issues": 0,
             "owner": "karatelabs",
             "repo": "karate",
             "stars": 8970,
@@ -1208,7 +1208,7 @@
             "open_issues": 22,
             "owner": "taverntesting",
             "repo": "tavern",
-            "stars": 1162,
+            "stars": 1161,
             "topics": [
               "grpc",
               "grpc-python",
@@ -1270,7 +1270,7 @@
             "open_issues": 132,
             "owner": "svanoort",
             "repo": "pyresttest",
-            "stars": 1165,
+            "stars": 1164,
             "topics": []
           },
           "title": "pyresttest",
@@ -1287,8 +1287,8 @@
             "id": 466909944,
             "language": "Go",
             "license": "MIT",
-            "last_commit": "2026-09-25T23:04:12Z",
-            "open_issues": 28,
+            "last_commit": "2026-09-28T01:40:52Z",
+            "open_issues": 29,
             "owner": "k1LoW",
             "repo": "runn",
             "stars": 650,
@@ -1345,11 +1345,11 @@
             "id": 203157084,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-09-26T23:08:35Z",
+            "last_commit": "2026-09-27T22:11:25Z",
             "open_issues": 11,
             "owner": "schemathesis",
             "repo": "schemathesis",
-            "stars": 3630,
+            "stars": 3634,
             "topics": [
               "api",
               "api-testing",
@@ -1472,11 +1472,11 @@
             "id": 54400687,
             "language": "Go",
             "license": "AGPL-3.0",
-            "last_commit": "2026-09-25T22:09:13Z",
-            "open_issues": 797,
+            "last_commit": "2026-09-28T00:03:48Z",
+            "open_issues": 802,
             "owner": "grafana",
             "repo": "k6",
-            "stars": 31642,
+            "stars": 31675,
             "topics": [
               "es6",
               "go",
@@ -1539,7 +1539,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-27T01:53:21.424Z",
+    "last_updated": "2026-09-28T02:00:39.340Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome API Clients & Postman Alternatives (Open Source, Free, Pro)",
