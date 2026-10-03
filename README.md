@@ -72,7 +72,7 @@ Accessible from any modern browser, these clients eliminate installation hassles
 * **Keywords:** Offline-first, Web HTTP client, Lightweight alternative, Free Postman alternative.
 * **Description:** Restfox directly tackles the cloud-sync concern by being an **offline-first** web client. Your workspaces, requests, and collections are stored locally in your browser's IndexedDB. It provides a clean, fast, and intuitive interface for making HTTP(S) requests, organizing them, managing environments, and scripting. It's designed to be simple yet powerful, offering core functionality without unnecessary complexity. Its emphasis on local storage and speed makes it an excellent free Postman alternative for those prioritizing privacy and performance in a web-based tool.
 
-### [Hoppscotch](https://hoppscotch.io) ([repo](https://github.com/hoppscotch/hoppscotch) ⭐ 80,561 | 🐛 844 | 🌐 TypeScript | 📅 2026-09-30)
+### [Hoppscotch](https://hoppscotch.io) ([repo](https://github.com/hoppscotch/hoppscotch) ⭐ 80,562 | 🐛 844 | 🌐 TypeScript | 📅 2026-09-30)
 
 * **Keywords:** Open source API development ecosystem, REST, GraphQL, WebSocket, PWA, Free Postman alternative, Insomnia alternative, Browser-based.
 * **Description:** Frequently cited as a top **Postman alternative** and **Insomnia alternative**, Hoppscotch (formerly Postwoman) is a feature-rich **open-source API development ecosystem**. Its sleek web interface supports **REST**, **GraphQL**, **WebSocket**, and Server-Sent Events. Key features include collections, environment variables, pre-request scripts, test scripts (JavaScript sandbox), documentation generation, and collaboration workspaces. It offers flexibility with data storage: local browser storage, optional Hoppscotch cloud sync, or even **self-hosting**. Its PWA support allows for an installable, near-native experience with offline access. Its comprehensive feature set makes it suitable for both individual developers and teams looking for a powerful, **free**, **browser-based** client.
@@ -102,7 +102,7 @@ Accessible from any modern browser, these clients eliminate installation hassles
 * **Keywords:** Browser extension, API Client, API Mocking, Modify HTTP requests, Intercept.
 * **Description:** Requestly is a versatile tool available as both a browser extension and a desktop app. Its origins lie in intercepting and modifying HTTP requests (e.g., redirecting URLs, modifying headers/responses, simulating network conditions), which is invaluable for frontend development and debugging. It has expanded to include a capable **API client**, allowing users to send HTTP(S) requests directly. It also features **API mocking**. This combination of interception, modification, mocking, and request sending in one tool makes it powerful, especially for web developers needing deep browser integration or comprehensive debugging capabilities. Its **free** tier offers significant functionality.
 
-### [Swagger UI](https://swagger.io/tools/swagger-ui/) ([repo](https://github.com/swagger-api/swagger-ui) ⭐ 29,026 | 🐛 1,138 | 🌐 JavaScript | 📅 2026-10-01)
+### [Swagger UI](https://swagger.io/tools/swagger-ui/) ([repo](https://github.com/swagger-api/swagger-ui) ⭐ 29,027 | 🐛 1,138 | 🌐 JavaScript | 📅 2026-10-01)
 
 * **Keywords:** OpenAPI, Swagger, API Documentation, Interactive Testing, Open Source.
 * **Description:** While **Swagger UI**'s primary purpose is to render **OpenAPI** (formerly Swagger) specifications as interactive **API documentation**, it serves as a valuable tool for **interactive testing**. It generates a user interface directly from an API definition, allowing developers (and consumers) to explore endpoints, understand request/response models, and execute live API calls directly within the documentation page. It's **open-source** and widely used. Though not a full-fledged API client like Postman (lacking collections management, complex scripting, etc.), its ability to provide an immediate, interactive testing environment based on the API contract makes it an essential part of the API ecosystem and a useful tool for quick checks. Often discussed in "**Swagger vs. Postman**" comparisons, they serve different primary roles but overlap in interactive testing.
@@ -113,7 +113,7 @@ Accessible from any modern browser, these clients eliminate installation hassles
 
 Installed natively on your OS (Windows, macOS, Linux), desktop clients often provide superior performance, deeper system integration, and guaranteed **offline** operation.
 
-### [Bruno](https://usebruno.com) ([repo](https://github.com/usebruno/bruno) ⭐ 47,324 | 🐛 1,860 | 🌐 JavaScript | 📅 2026-10-01)
+### [Bruno](https://usebruno.com) ([repo](https://github.com/usebruno/bruno) ⭐ 47,323 | 🐛 1,860 | 🌐 JavaScript | 📅 2026-10-01)
 
 * **Keywords:** Opensource IDE for APIs, Offline-first, Git-friendly, Local storage, Privacy, Free Postman alternative, Insomnia alternative, Bruno.
 * **Description:** **Bruno** has rapidly emerged as a leading **free Postman alternative** and **Insomnia alternative**, heavily praised in community discussions (**Reddit**, Hacker News). Its core philosophy is **offline-first** operation and storing API collections directly on the local filesystem using Bru Lang, a plain text markup language. This makes collections inherently **Git-friendly**, allowing seamless version control alongside code. Bruno offers a clean UI, REST and GraphQL support, environment variables, declarative scripting (JavaScript), and assertions for **API testing**. Its explicit rejection of mandatory cloud sync strongly appeals to users prioritizing **privacy** and **local storage**. Many see **Bruno** as a modern, fast, and developer-centric **offline** alternative.
@@ -260,7 +260,7 @@ Indispensable for automation, scripting, and terminal enthusiasts, **CLI** tools
 * **Keywords:** gRPC client, CLI, REPL, Expressive gRPC client.
 * **Description:** Evans is another feature-rich **CLI** client for **gRPC** services, branding itself as a "more expressive universal gRPC client". It provides both an interactive **REPL** mode for exploration (with auto-completion) and a CLI mode suitable for scripting. It supports server reflection, loading proto files, handling metadata, and various output formats, serving as a powerful alternative to `grpcurl`.
 
-### [httpYac](https://httpyac.github.io/) ([repo](https://github.com/anweber/httpyac) ⭐ 883 | 🐛 81 | 🌐 TypeScript | 📅 2026-03-04)
+### [httpYac](https://httpyac.github.io/) ([repo](https://github.com/anweber/httpyac) ⭐ 883 | 🐛 82 | 🌐 TypeScript | 📅 2026-03-04)
 
 * **Keywords:** HTTP file execution, CLI, REST, SOAP, GraphQL, gRPC, VS Code integration.
 * **Description:** httpYac bridges IDE/text-based definitions with **CLI** execution. It uses `.http` files (similar syntax to the VS Code REST Client) to define requests for **REST, SOAP, GraphQL, and gRPC**. Its CLI tool then executes these files, making it excellent for managing complex requests as code and running them in automated environments (like CI/CD). It supports environment variables, scripting hooks, and response handling. It also has a companion **VS Code extension**.
@@ -281,7 +281,7 @@ While many API clients include basic assertion capabilities, the tools in this s
 * **Keywords:** API Test Automation framework, Declarative testing, YAML, CI/CD integration, Open-source.
 * **Description:** Step CI is an **open-source API test automation framework** emphasizing simplicity and **CI/CD integration**. Tests are defined declaratively using **YAML**, specifying API calls, data extraction rules (to chain requests), and assertions. It's designed for ease of use, allowing developers and QA teams to quickly create and maintain automated API tests as part of their development lifecycle.
 
-### [Hurl](https://hurl.dev) ([repo](https://github.com/Orange-OpenSource/hurl) ⭐ 19,232 | 🐛 201 | 🌐 Rust | 📅 2026-10-02)
+### [Hurl](https://hurl.dev) ([repo](https://github.com/Orange-OpenSource/hurl) ⭐ 19,232 | 🐛 202 | 🌐 Rust | 📅 2026-10-03)
 
 * **Keywords:** Plain text HTTP requests, API testing, CLI, Assertions, CI/CD.
 * **Description:** Hurl executes HTTP requests defined in simple, human-readable **plain text** files (`.hurl`). This format allows specifying request details (method, URL, headers, body) alongside **assertions** on the response (status, headers, body content via JSONPath, XPath, regex, etc.) and capturing values for subsequent requests. Hurl acts as a **CLI** tool that runs these files, making it ideal for integration testing within **CI/CD** pipelines due to its simplicity and dependency-free nature.
@@ -336,7 +336,7 @@ While many API clients include basic assertion capabilities, the tools in this s
 * **Keywords:** API testing framework, YAML/JSON, Go/Python, Load testing support.
 * **Description:** HttpRunner is a popular **open-source API testing framework** supporting tests defined in **YAML or JSON**. It has implementations in both **Go** and **Python** (**HttpRunner v4** onwards focusing on Go). It supports various features like data-driven testing, complex scenarios, hooks, and can also be used for basic **load testing**.
 
-### [k6](https://k6.io) ([repo](https://github.com/grafana/k6) ⭐ 31,761 | 🐛 780 | 🌐 Go | 📅 2026-10-02)
+### [k6](https://k6.io) ([repo](https://github.com/grafana/k6) ⭐ 31,763 | 🐛 780 | 🌐 Go | 📅 2026-10-02)
 
 * **Keywords:** Load testing tool, Performance testing, JavaScript, Go, Open-source.
 * **Description:** While primarily known as a modern, developer-centric **load testing tool**, **k6** (by Grafana) can also be used for functional API testing. Tests are written in **JavaScript** (ES2015+) and executed by a high-performance **Go** runtime. It integrates well into developer workflows and CI pipelines, focusing on performance and reliability under load, but its scripting capabilities allow for functional assertions too.

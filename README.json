@@ -53,7 +53,7 @@
             "open_issues": 844,
             "owner": "hoppscotch",
             "repo": "hoppscotch",
-            "stars": 80561,
+            "stars": 80562,
             "topics": [
               "api",
               "api-client",
@@ -254,7 +254,7 @@
             "open_issues": 1138,
             "owner": "swagger-api",
             "repo": "swagger-ui",
-            "stars": 29026,
+            "stars": 29027,
             "topics": [
               "hacktoberfest",
               "oas",
@@ -297,7 +297,7 @@
             "open_issues": 1860,
             "owner": "usebruno",
             "repo": "bruno",
-            "stars": 47324,
+            "stars": 47323,
             "topics": [
               "api-client",
               "api-testing",
@@ -1069,7 +1069,7 @@
             "language": "TypeScript",
             "license": "MIT",
             "last_commit": "2026-03-04T19:23:18Z",
-            "open_issues": 81,
+            "open_issues": 82,
             "owner": "AnWeber",
             "repo": "httpyac",
             "stars": 883,
@@ -1176,8 +1176,8 @@
             "id": 290243101,
             "language": "Rust",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-02T14:53:01Z",
-            "open_issues": 201,
+            "last_commit": "2026-10-03T03:14:47Z",
+            "open_issues": 202,
             "owner": "Orange-OpenSource",
             "repo": "hurl",
             "stars": 19232,
@@ -1516,7 +1516,7 @@
             "open_issues": 780,
             "owner": "grafana",
             "repo": "k6",
-            "stars": 31761,
+            "stars": 31763,
             "topics": [
               "es6",
               "go",
@@ -1579,7 +1579,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-03T02:22:36.575Z",
+    "last_updated": "2026-10-03T05:04:24.707Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome API Clients & Postman Alternatives (Open Source, Free, Pro)",
