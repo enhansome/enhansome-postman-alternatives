@@ -67,12 +67,12 @@ However, when discussing modern, comprehensive alternatives that aim to match or
 
 Accessible from any modern browser, these clients eliminate installation hassles and often facilitate easier sharing and collaboration. Many leverage browser storage for offline use or offer PWA (Progressive Web App) capabilities.
 
-### [Restfox](https://restfox.dev) ([repo](https://github.com/flawiddsouza/Restfox) ⭐ 2,766 | 🐛 33 | 🌐 Vue | 📅 2026-09-24)
+### [Restfox](https://restfox.dev) ([repo](https://github.com/flawiddsouza/Restfox) ⭐ 2,767 | 🐛 34 | 🌐 Vue | 📅 2026-09-24)
 
 * **Keywords:** Offline-first, Web HTTP client, Lightweight alternative, Free Postman alternative.
 * **Description:** Restfox directly tackles the cloud-sync concern by being an **offline-first** web client. Your workspaces, requests, and collections are stored locally in your browser's IndexedDB. It provides a clean, fast, and intuitive interface for making HTTP(S) requests, organizing them, managing environments, and scripting. It's designed to be simple yet powerful, offering core functionality without unnecessary complexity. Its emphasis on local storage and speed makes it an excellent free Postman alternative for those prioritizing privacy and performance in a web-based tool.
 
-### [Hoppscotch](https://hoppscotch.io) ([repo](https://github.com/hoppscotch/hoppscotch) ⭐ 80,560 | 🐛 848 | 🌐 TypeScript | 📅 2026-09-30)
+### [Hoppscotch](https://hoppscotch.io) ([repo](https://github.com/hoppscotch/hoppscotch) ⭐ 80,566 | 🐛 848 | 🌐 TypeScript | 📅 2026-10-04)
 
 * **Keywords:** Open source API development ecosystem, REST, GraphQL, WebSocket, PWA, Free Postman alternative, Insomnia alternative, Browser-based.
 * **Description:** Frequently cited as a top **Postman alternative** and **Insomnia alternative**, Hoppscotch (formerly Postwoman) is a feature-rich **open-source API development ecosystem**. Its sleek web interface supports **REST**, **GraphQL**, **WebSocket**, and Server-Sent Events. Key features include collections, environment variables, pre-request scripts, test scripts (JavaScript sandbox), documentation generation, and collaboration workspaces. It offers flexibility with data storage: local browser storage, optional Hoppscotch cloud sync, or even **self-hosting**. Its PWA support allows for an installable, near-native experience with offline access. Its comprehensive feature set makes it suitable for both individual developers and teams looking for a powerful, **free**, **browser-based** client.
@@ -82,7 +82,7 @@ Accessible from any modern browser, these clients eliminate installation hassles
 * **Keywords:** Multi-protocol, GraphQL, WebSocket, Socket.IO, VS Code DX, Open Source Postman Alternative.
 * **Description:** Firecamp aims to provide a superior Developer Experience (DX) inspired by VS Code. It stands out with its multi-protocol support, handling **REST**, **GraphQL**, **WebSocket**, and **Socket.IO** APIs within a unified interface. This makes it incredibly versatile for projects involving real-time communication alongside traditional APIs. Features include workspaces, collections, scripting, and a focus on collaborative workflows. Its VS Code-like command palette and layout offer familiarity for many developers. Firecamp is a strong **open-source Postman alternative** for those needing broad protocol support and appreciating a developer-centric UI.
 
-### [gRPC UI](https://github.com/fullstorydev/grpcui) ⭐ 5,926 | 🐛 79 | 🌐 JavaScript | 📅 2026-09-14
+### [gRPC UI](https://github.com/fullstorydev/grpcui) ⭐ 5,927 | 🐛 79 | 🌐 JavaScript | 📅 2026-09-14
 
 * **Keywords:** gRPC, Web UI, Interactive, API exploration.
 * **Description:** While not a general HTTP client, gRPC UI is an indispensable **open-source** tool for developers working with **gRPC**. It provides an interactive **web UI** for exploring and invoking gRPC services, much like Postman does for REST. Using gRPC reflection or compiled `.proto` files, it discovers services and methods, allowing users to easily craft requests (including metadata), view responses, and understand gRPC schemas directly in the browser. It significantly simplifies gRPC debugging and interaction compared to using purely CLI tools.
@@ -102,7 +102,7 @@ Accessible from any modern browser, these clients eliminate installation hassles
 * **Keywords:** Browser extension, API Client, API Mocking, Modify HTTP requests, Intercept.
 * **Description:** Requestly is a versatile tool available as both a browser extension and a desktop app. Its origins lie in intercepting and modifying HTTP requests (e.g., redirecting URLs, modifying headers/responses, simulating network conditions), which is invaluable for frontend development and debugging. It has expanded to include a capable **API client**, allowing users to send HTTP(S) requests directly. It also features **API mocking**. This combination of interception, modification, mocking, and request sending in one tool makes it powerful, especially for web developers needing deep browser integration or comprehensive debugging capabilities. Its **free** tier offers significant functionality.
 
-### [Swagger UI](https://swagger.io/tools/swagger-ui/) ([repo](https://github.com/swagger-api/swagger-ui) ⭐ 29,031 | 🐛 1,140 | 🌐 JavaScript | 📅 2026-10-03)
+### [Swagger UI](https://swagger.io/tools/swagger-ui/) ([repo](https://github.com/swagger-api/swagger-ui) ⭐ 29,030 | 🐛 1,140 | 🌐 JavaScript | 📅 2026-10-03)
 
 * **Keywords:** OpenAPI, Swagger, API Documentation, Interactive Testing, Open Source.
 * **Description:** While **Swagger UI**'s primary purpose is to render **OpenAPI** (formerly Swagger) specifications as interactive **API documentation**, it serves as a valuable tool for **interactive testing**. It generates a user interface directly from an API definition, allowing developers (and consumers) to explore endpoints, understand request/response models, and execute live API calls directly within the documentation page. It's **open-source** and widely used. Though not a full-fledged API client like Postman (lacking collections management, complex scripting, etc.), its ability to provide an immediate, interactive testing environment based on the API contract makes it an essential part of the API ecosystem and a useful tool for quick checks. Often discussed in "**Swagger vs. Postman**" comparisons, they serve different primary roles but overlap in interactive testing.
@@ -113,7 +113,7 @@ Accessible from any modern browser, these clients eliminate installation hassles
 
 Installed natively on your OS (Windows, macOS, Linux), desktop clients often provide superior performance, deeper system integration, and guaranteed **offline** operation.
 
-### [Bruno](https://usebruno.com) ([repo](https://github.com/usebruno/bruno) ⭐ 47,335 | 🐛 1,864 | 🌐 JavaScript | 📅 2026-10-01)
+### [Bruno](https://usebruno.com) ([repo](https://github.com/usebruno/bruno) ⭐ 47,341 | 🐛 1,872 | 🌐 JavaScript | 📅 2026-10-01)
 
 * **Keywords:** Opensource IDE for APIs, Offline-first, Git-friendly, Local storage, Privacy, Free Postman alternative, Insomnia alternative, Bruno.
 * **Description:** **Bruno** has rapidly emerged as a leading **free Postman alternative** and **Insomnia alternative**, heavily praised in community discussions (**Reddit**, Hacker News). Its core philosophy is **offline-first** operation and storing API collections directly on the local filesystem using Bru Lang, a plain text markup language. This makes collections inherently **Git-friendly**, allowing seamless version control alongside code. Bruno offers a clean UI, REST and GraphQL support, environment variables, declarative scripting (JavaScript), and assertions for **API testing**. Its explicit rejection of mandatory cloud sync strongly appeals to users prioritizing **privacy** and **local storage**. Many see **Bruno** as a modern, fast, and developer-centric **offline** alternative.
@@ -123,7 +123,7 @@ Installed natively on your OS (Windows, macOS, Linux), desktop clients often pro
 * **Keywords:** Intuitive desktop API client, Lightweight alternative, Cross-platform.
 * **Description:** Yaak focuses on being the "most intuitive" desktop API client, prioritizing simplicity and ease of use. It provides a clean, polished interface for sending requests, managing environments, and organizing collections across different workspaces. It aims to be a **lightweight alternative** that is quick to learn and efficient for daily API interaction tasks, available for Windows, macOS, and Linux.
 
-### [API Dash](https://github.com/foss42/apidash) ⭐ 2,917 | 🐛 195 | 🌐 Dart | 📅 2026-10-02
+### [API Dash](https://github.com/foss42/apidash) ⭐ 2,917 | 🐛 196 | 🌐 Dart | 📅 2026-10-02
 
 * **Keywords:** Cross-platform API Client, Flutter, Open-source, Beautiful UI.
 * **Description:** Built with Flutter, API Dash delivers a beautiful and consistent user experience across Windows, macOS, and Linux. It provides the core functionalities needed for interacting with REST APIs, including request creation, response inspection, collections, and environment management. Its focus on a visually appealing UI and native cross-platform performance makes it an attractive **open-source** option.
@@ -148,7 +148,7 @@ Installed natively on your OS (Windows, macOS, Linux), desktop clients often pro
 * **Keywords:** Insomnia fork, Local, Privacy-focused, Offline, Open-source Insomnia alternative.
 * **Description:** Insomnium was created as a direct fork of **Insomnia** specifically to remove the mandatory cloud sync and account requirements introduced by Kong. It aims to provide the familiar Insomnia UX while ensuring all data remains 100% **local** and **private**. It's the quintessential **privacy-focused**, **offline**, **open-source Insomnia alternative** for users who liked the original interface but prioritize data locality. **(Note: As with any fork, users should check the repository for ongoing maintenance activity)**.
 
-### [Pororoca](https://pororoca.io) ([repo](https://github.com/alexandrehtrb/Pororoca) ⭐ 669 | 🐛 34 | 🌐 C# | 📅 2026-10-02)
+### [Pororoca](https://pororoca.io) ([repo](https://github.com/alexandrehtrb/Pororoca) ⭐ 669 | 🐛 32 | 🌐 C# | 📅 2026-10-04)
 
 * **Keywords:** HTTP inspection tool, HTTP/2, HTTP/3, Rust.
 * **Description:** Pororoca is primarily an HTTP inspection tool with strong support for modern protocols like **HTTP/2** and **HTTP/3**, alongside HTTP/1.1. Built with Rust for performance, it allows detailed analysis and debugging of interactions using these newer protocols, capabilities often lacking in older clients. While it can send requests, its focus on inspection and advanced protocol support differentiates it.
@@ -174,7 +174,7 @@ Installed natively on your OS (Windows, macOS, Linux), desktop clients often pro
 
 These tools bring API interaction directly into your code editor, minimizing context switching and keeping API testing close to development.
 
-### [VS Code REST Client](https://marketplace.visualstudio.com/items?itemName=humao.rest-client) ([repo](https://github.com/Huachao/vscode-restclient) ⭐ 6,053 | 🐛 594 | 🌐 TypeScript | 📅 2026-04-23)
+### [VS Code REST Client](https://marketplace.visualstudio.com/items?itemName=humao.rest-client) ([repo](https://github.com/Huachao/vscode-restclient) ⭐ 6,054 | 🐛 594 | 🌐 TypeScript | 📅 2026-04-23)
 
 * **Keywords:** VS Code extension, Send HTTP request, Text-based, IDE integration.
 * **Description:** An immensely popular **VS Code extension**, REST Client allows developers to define and send HTTP/GraphQL requests directly from plain text files (`.http` or `.rest`). It uses a simple, intuitive syntax, supports environment variables (via VS Code settings), code snippets, response saving, cURL command generation, and more. Clicking "Send Request" executes the query, displaying the response in a separate pane. Its tight integration makes it a favorite **free Postman alternative** for VS Code users.
@@ -215,12 +215,12 @@ These tools bring API interaction directly into your code editor, minimizing con
 
 Indispensable for automation, scripting, and terminal enthusiasts, **CLI** tools offer performance, composability, and easy integration into CI/CD pipelines.
 
-### [curl](https://curl.se) ([repo](https://github.com/curl/curl) ⭐ 43,033 | 🐛 70 | 🌐 C | 📅 2026-10-03)
+### [curl](https://curl.se) ([repo](https://github.com/curl/curl) ⭐ 43,079 | 🐛 69 | 🌐 C | 📅 2026-10-05)
 
 * **Keywords:** curl, Command line tool, Data transfer, URL syntax, CLI.
 * **Description:** The foundational, ubiquitous **command-line tool** for transferring data using **URL syntax**. Active since 1998, **`curl`** is incredibly powerful and versatile, supporting numerous protocols (HTTP, HTTPS, FTP, SMB, LDAP, etc.) with extensive options for fine-grained control. While its syntax can be complex, its reliability and presence on virtually every system make it essential for scripting and basic **API testing**. It's the benchmark against which other CLI clients are often measured.
 
-### [HTTPie](https://httpie.io/cli) ([repo](https://github.com/httpie/cli) ⭐ 38,646 | 🐛 345 | 🌐 Python | 📅 2024-12-17)
+### [HTTPie](https://httpie.io/cli) ([repo](https://github.com/httpie/cli) ⭐ 38,694 | 🐛 345 | 🌐 Python | 📅 2024-12-17)
 
 * **Keywords:** HTTPie, Human-friendly HTTP client, CLI, JSON support, Syntax highlighting.
 * **Description:** **HTTPie** aims to make CLI interaction with HTTP APIs as **human-friendly** as possible. It provides an intuitive syntax, sensible defaults, built-in **JSON support**, syntax highlighting, and formatted output, making it significantly easier and more pleasant to use for common API calls than raw `curl`. A very popular **free Postman alternative** for terminal users seeking better usability.
@@ -235,7 +235,7 @@ Indispensable for automation, scripting, and terminal enthusiasts, **CLI** tools
 * **Keywords:** Friendly HTTP requests, Fast CLI tool, Rust.
 * **Description:** Built with Rust, `xh` is another **friendly** and **fast** CLI tool for sending HTTP requests, positioned as an alternative to HTTPie. It offers similar usability improvements over `curl`, focusing on performance and a pleasant user experience with features like simplified syntax and colored output.
 
-### [posting](https://github.com/darrenburns/posting) ⭐ 12,484 | 🐛 75 | 🌐 Python | 📅 2026-10-03
+### [posting](https://github.com/darrenburns/posting) ⭐ 12,485 | 🐛 76 | 🌐 Python | 📅 2026-10-03
 
 * **Keywords:** Modern API client, Terminal-based.
 * **Description:** `posting` aims to be a modern API client living entirely in the terminal, potentially offering a more interactive or structured experience than simple request/response tools, possibly managing contexts or sessions within its interface.
@@ -281,7 +281,7 @@ While many API clients include basic assertion capabilities, the tools in this s
 * **Keywords:** API Test Automation framework, Declarative testing, YAML, CI/CD integration, Open-source.
 * **Description:** Step CI is an **open-source API test automation framework** emphasizing simplicity and **CI/CD integration**. Tests are defined declaratively using **YAML**, specifying API calls, data extraction rules (to chain requests), and assertions. It's designed for ease of use, allowing developers and QA teams to quickly create and maintain automated API tests as part of their development lifecycle.
 
-### [Hurl](https://hurl.dev) ([repo](https://github.com/Orange-OpenSource/hurl) ⭐ 19,235 | 🐛 199 | 🌐 Rust | 📅 2026-10-03)
+### [Hurl](https://hurl.dev) ([repo](https://github.com/Orange-OpenSource/hurl) ⭐ 19,235 | 🐛 198 | 🌐 Rust | 📅 2026-10-03)
 
 * **Keywords:** Plain text HTTP requests, API testing, CLI, Assertions, CI/CD.
 * **Description:** Hurl executes HTTP requests defined in simple, human-readable **plain text** files (`.hurl`). This format allows specifying request details (method, URL, headers, body) alongside **assertions** on the response (status, headers, body content via JSONPath, XPath, regex, etc.) and capturing values for subsequent requests. Hurl acts as a **CLI** tool that runs these files, making it ideal for integration testing within **CI/CD** pipelines due to its simplicity and dependency-free nature.
@@ -296,7 +296,7 @@ While many API clients include basic assertion capabilities, the tools in this s
 * **Keywords:** Automated RESTful API testing, Pytest plugin, YAML, MQTT, Open-source.
 * **Description:** Tavern is a **Pytest plugin** for **automated RESTful API testing**, using a declarative **YAML** format. Its tight integration with Pytest allows leveraging the extensive Python testing ecosystem. Tavern supports complex scenarios, validation using JSON Schema, and extensibility for different protocols (including built-in **MQTT** support).
 
-### [Venom](https://github.com/ovh/venom) ⭐ 1,220 | 🐛 35 | 🌐 Go | 📅 2026-10-01
+### [Venom](https://github.com/ovh/venom) ⭐ 1,221 | 🐛 35 | 🌐 Go | 📅 2026-10-01
 
 * **Keywords:** Integration tests, Test runner, YAML, Executors, Open-source.
 * **Description:** Venom is a versatile **open-source** test runner developed by OVHcloud. It allows writing test cases in **YAML** and supports various **executors** (HTTP, gRPC, WebSockets, databases, SMTP, SSH, etc.), making it suitable for complex **integration tests** that span multiple services and protocols.
@@ -316,7 +316,7 @@ While many API clients include basic assertion capabilities, the tools in this s
 * **Keywords:** End-to-end scenario testing, HTTP server testing, gRPC server testing, Go.
 * **Description:** Also built in **Go**, `scenarigo` is an **end-to-end scenario testing tool** focused on **HTTP** and **gRPC** servers. It allows defining test scenarios in YAML, referencing `.proto` files for gRPC, and writing assertions to validate complex application behaviors.
 
-### [Schemathesis](https://schemathesis.readthedocs.io/) ([repo](https://github.com/schemathesis/schemathesis) ⭐ 3,647 | 🐛 13 | 🌐 Python | 📅 2026-10-04)
+### [Schemathesis](https://schemathesis.readthedocs.io/) ([repo](https://github.com/schemathesis/schemathesis) ⭐ 3,648 | 🐛 11 | 🌐 Python | 📅 2026-10-04)
 
 * **Keywords:** Specification-centric API testing, Property-based testing, OpenAPI, GraphQL, Open-source.
 * **Description:** Schemathesis takes a unique, **specification-centric** approach to API testing. It reads your **OpenAPI** or **GraphQL** schema and automatically generates test cases based on the defined constraints (using **property-based testing** principles). This helps find edge cases and specification violations that manual testing might miss. It integrates well with Python testing frameworks.
@@ -331,17 +331,17 @@ While many API clients include basic assertion capabilities, the tools in this s
 * **Keywords:** RAML testing, REST API automated testing.
 * **Description:** `abao` is specifically designed for **automated testing** of REST APIs documented using **RAML** (RESTful API Modeling Language). It functions similarly to Dredd but focuses on the RAML specification format.
 
-### [HttpRunner](https://httprunner.com/httprunner/) ([repo](https://github.com/httprunner/httprunner) ⭐ 4,297 | 🐛 503 | 🌐 Go | 📅 2025-12-11)
+### [HttpRunner](https://httprunner.com/httprunner/) ([repo](https://github.com/httprunner/httprunner) ⭐ 4,298 | 🐛 503 | 🌐 Go | 📅 2025-12-11)
 
 * **Keywords:** API testing framework, YAML/JSON, Go/Python, Load testing support.
 * **Description:** HttpRunner is a popular **open-source API testing framework** supporting tests defined in **YAML or JSON**. It has implementations in both **Go** and **Python** (**HttpRunner v4** onwards focusing on Go). It supports various features like data-driven testing, complex scenarios, hooks, and can also be used for basic **load testing**.
 
-### [k6](https://k6.io) ([repo](https://github.com/grafana/k6) ⭐ 31,770 | 🐛 780 | 🌐 Go | 📅 2026-10-02)
+### [k6](https://k6.io) ([repo](https://github.com/grafana/k6) ⭐ 31,782 | 🐛 785 | 🌐 Go | 📅 2026-10-05)
 
 * **Keywords:** Load testing tool, Performance testing, JavaScript, Go, Open-source.
 * **Description:** While primarily known as a modern, developer-centric **load testing tool**, **k6** (by Grafana) can also be used for functional API testing. Tests are written in **JavaScript** (ES2015+) and executed by a high-performance **Go** runtime. It integrates well into developer workflows and CI pipelines, focusing on performance and reliability under load, but its scripting capabilities allow for functional assertions too.
 
-### [Artillery](https://artillery.io) ([repo](https://github.com/artilleryio/artillery) ⭐ 9,087 | 🐛 487 | 🌐 TypeScript | 📅 2026-09-23)
+### [Artillery](https://artillery.io) ([repo](https://github.com/artilleryio/artillery) ⭐ 9,088 | 🐛 487 | 🌐 TypeScript | 📅 2026-09-23)
 
 * **Keywords:** Load testing, Performance testing, Cloud-scale, YAML, JavaScript, Open-source.
 * **Description:** Similar to k6, **Artillery** is an **open-source** tool focused on **load testing** at **cloud-scale**. Test scenarios are typically defined in **YAML**, with support for custom logic written in **JavaScript**. While its main goal is performance testing, it includes features for making assertions and validating responses, allowing it to be used for complex functional API testing scenarios as well.
@@ -392,4 +392,4 @@ This list (**Awesome API Clients**) provides a starting point for exploring thes
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-04._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-05._
